@@ -1,0 +1,1 @@
+Zero knowledge Succinct Non-interactive Argument of Knowledge. Further explained in [[ZK]].
