@@ -38,6 +38,7 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 - (**06/23 to 08/23**) [[Project Vinyl]]
   - Independent exploration into continuations of NFC projects
+  - Ideas were converted into the [[Jubmoji]] PSE grant proposal!
 - **(05/23 to 06/23)** [[ZuStamps]]
   - Funded by 0xPARC, project led by me
   - First deployment of NFC chips
