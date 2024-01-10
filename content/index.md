@@ -25,11 +25,12 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 ### Proposals
 
 - DKIM-BIN
-  - Expanding zk-email into a more substantial identity platform
+	- Expanding zk-email into a more substantial identity platform
+	- Building a separate email service  
 - sha-maphore
-  - Application of Binius
-  - Using SHA256 + Semaphore as a signature algorithm
-  - Quantum resistant, using standard hash functions, recursion friendly
+	- Application of Binius
+	- Using SHA256 + Semaphore as a signature algorithm
+	- Quantum resistant, using standard hash functions, recursion friendly
 - ZK extension to This Cursed Machine
 	- Users can create "secret materials" by uploading a hash of a material/machine path
 	- Users can unlock secret material by ZK proving knowledge of the path's pre-image
@@ -37,29 +38,29 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 ### Recent
 
 - (**06/23 to 08/23**) [[Project Vinyl]]
-  - Independent exploration into continuations of NFC projects
-  - Ideas were converted into the [[Jubmoji]] PSE grant proposal!
+	- Independent exploration into continuations of NFC projects
+	- Ideas were converted into the [[Jubmoji]] PSE grant proposal!
 - **(05/23 to 06/23)** [[ZuStamps]]
-  - Funded by 0xPARC, project led by me
-  - First deployment of NFC chips
+	- Funded by 0xPARC, project led by me
+	- First deployment of NFC chips
 - **(04/23 to 05/23)** [Zupoll](https://zupoll.org)
-  - Funded by 0xPARC, collaborated with Sampriti
-  - [Developed a polling app](https://github.com/proofcarryingdata/zupoll) built on Semaphore for Zuzalu citizens to use for polls
-  - Don't think the privacy benefits outweigh the UX costs unfortunately
+	- Funded by 0xPARC, collaborated with Sampriti
+	- [Developed a polling app](https://github.com/proofcarryingdata/zupoll) built on Semaphore for Zuzalu citizens to use for polls
+	- Don't think the privacy benefits outweigh the UX costs unfortunately
 - (**02/23 to 04/23**) [Zupass](https://github.com/proofcarryingdata/zupass) and PCD SDK
-  - Funded by 0xPARC, working with Brian, Ivan, DC
-  - One of three full-time developers on the Zupass team
+	- Funded by 0xPARC, working with Brian, Ivan, DC
+	- One of three full-time developers on the Zupass team
 - (**02/23 to 04/23**) [[WebAuthn]] ZK research
-  - Funded by 0xPARC/PSE, project led by Richard and proposed/supported by me
-  - Creating [ZK circuits](https://github.com/zkwebauthn/webauthn-halo2) to prove knowledge of a valid WebAuthn signature
-  - Applied for use in an [AA wallet](https://www.noseedphrases.xyz/)
+	- Funded by 0xPARC/PSE, project led by Richard and proposed/supported by me
+	- Creating [ZK circuits](https://github.com/zkwebauthn/webauthn-halo2) to prove knowledge of a valid WebAuthn signature
+	- Applied for use in an [AA wallet](https://www.noseedphrases.xyz/)
 - (**01/23 to 02/23**) [heyauthn!](https://github.com/RiverRuby/heyauthn)
-  - Demo using [[WebAuthn]] to power Semaphore identities
-  - Also used NFC chips to create Semaphore groups, first documented use of NFC for ZK
+	- Demo using [[WebAuthn]] to power Semaphore identities
+	- Also used NFC chips to create Semaphore groups, first documented use of NFC for ZK
 - (**01/23 to 02/23**) MIT [ZK IAP](https://zkiap.com) instructor and TA
-  - Funded by 0xPARC
-  - Lecturer for Session 4 and partial lecturer for Session 11
-  - TA for office hours and mentored a few end-of-course projects
+	- Funded by 0xPARC
+	- Lecturer for Session 4 and partial lecturer for Session 11
+	- TA for office hours and mentored a few end-of-course projects
 
 Earlier work can be found here: [[Projects before 2023]]
 
