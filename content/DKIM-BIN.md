@@ -1,0 +1,1 @@
+DKIM-BIN is a technical architecture that I believe is one of the best plays at importing useful private data to make proofs about.

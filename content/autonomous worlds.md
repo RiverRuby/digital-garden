@@ -1,4 +1,4 @@
-In my mind, **autonomous worlds** are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced by Ludens in 2022 ](https://0xparc.org/blog/autonomous-worlds), and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
+In my mind, **autonomous worlds** are eternal backends, free of exclusive [[ownership]] and maximally [[PVI]]. They were first [introduced by Ludens in 2022 ](https://0xparc.org/blog/autonomous-worlds), and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
 
 I use AW here as an _umbrella term for any technology built on Ethereum_. In my understanding of the blockchain ecosystem and AWs, basically all the 'core' novel building blocks can be reframed as AWs (Uniswap, MakerDAO, Aave, etc).
 

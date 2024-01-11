@@ -1,0 +1,1 @@
+This dude is BUILT DIFFERENT. His blog is at [[https://blog.aayushg.com]] 
