@@ -26,8 +26,8 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 - DKIM-BIN
 	- Expanding zk-email into a more substantial identity platform
-	- Building a separate email service  
-	- Requires use of Binius for large zk-SHA 
+	- Separate email client that allows people to 
+	- Requires use of Binius for large zk-SHA proofs
 - sha-maphore
 	- Application of Binius
 	- Using SHA256 + Semaphore as a signature algorithm
@@ -51,17 +51,19 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 - (**02/23 to 04/23**) [Zupass](https://github.com/proofcarryingdata/zupass) and PCD SDK
 	- Funded by 0xPARC, working with Brian, Ivan, DC
 	- One of three full-time developers on the Zupass team
-- (**02/23 to 04/23**) [[WebAuthn]] ZK research
+- (**02/23 to 04/23**) [[WebAuthn]] Halo2 ZK wrapper
 	- Funded by 0xPARC/PSE, project led by Richard and proposed/supported by me
 	- Creating [ZK circuits](https://github.com/zkwebauthn/webauthn-halo2) to prove knowledge of a valid WebAuthn signature
-	- Applied for use in an [AA wallet](https://www.noseedphrases.xyz/)
-- (**01/23 to 02/23**) [heyauthn!](https://github.com/RiverRuby/heyauthn)
+	- Applied for use in an [AA wallet](https://www.noseedphrases.xyz/) by [Know Nothing Labs](https://www.knownothinglabs.xyz/)
+	- Researched if WebAuthn keys could be a reasonable nullifier; the guarantees are not very strong unfortunately
+- (**11/22 to 02/23**) [[heyauthn!]]
 	- Demo using [[WebAuthn]] to power Semaphore identities
 	- Also used NFC chips to create Semaphore groups, first documented use of NFC for ZK
+	- Posted to a ZK IAP class Discord channel
 - (**01/23 to 02/23**) MIT [ZK IAP](https://zkiap.com) instructor and TA
 	- Funded by 0xPARC
 	- Lecturer for Session 4 and partial lecturer for Session 11
 	- TA for office hours and mentored a few end-of-course projects
 
-Earlier work can be found here: [[Projects before 2023]]
+Earlier work can be found here: [[Projects before 2022]]
 

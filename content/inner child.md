@@ -5,4 +5,5 @@
 > 
 > *Power* by Kanye West, off [MBDTF](https://genius.com/54655)
 
+![[Pasted image 20240111022432.png]]
 
