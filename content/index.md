@@ -27,6 +27,7 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 - DKIM-BIN
 	- Expanding zk-email into a more substantial identity platform
 	- Building a separate email service  
+	- Requires use of Binius for large zk-SHA 
 - sha-maphore
 	- Application of Binius
 	- Using SHA256 + Semaphore as a signature algorithm
