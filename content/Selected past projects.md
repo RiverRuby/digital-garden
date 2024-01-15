@@ -1,4 +1,4 @@
-This a curated list of past projects that I am proud of and/or display my research and product interests. A less more complete list can be found here: [[All past projects]]
+This a curated list of past projects that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
 
 ### 2023
 
