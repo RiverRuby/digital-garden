@@ -37,6 +37,7 @@ A much more simplified API when we use standard hash functions is:
 ```
 proof HashSignature:
 	public:
+		int publicKey
 		int messageHash
 	private:
 		int password

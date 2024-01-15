@@ -4,11 +4,12 @@ A combined signature, anon sign-in, and pseudonym protocol that is newly enabled
 
 ## Simplified API
 
-I personally view Semaphore as it breaks down into 3 different gadgets -- `HashSignature`, `AnonSignIn`, and `Plume` -- which I introduce in my [[Semaphore]] explainer. The definition of SHAmaphore is based on the same gadgets, but the hash function is specified to always be SHA-256:
+I personally view Semaphore as it breaks down into 3 different gadgets -- `HashSignature`, `AnonSignIn`, and `Plume` -- which I introduce in my [[Semaphore]] explainer. The definition of SHAmaphore is based on the same gadgets, but the hash function is specified to always be SHA-256. This uses pseudocode defined in [[zkSNARKs]].
 
 ```
 proof HashSignature:
 	public:
+		int publicKey
 		int messageHash
 	private:
 		int password
@@ -25,7 +26,7 @@ proof AnonSignIn:
 		int siblings
 		int pathIndices
 	checks:
-		publicKey === sha(password)
+		int publicKey === sha(password)
 		root === shaMerkleCheck(
 			leaf=publicKey,
 			siblings,
