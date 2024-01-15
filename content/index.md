@@ -56,6 +56,5 @@ All of these documents are a work-in-progress; I will properly publish them when
 
 ## Past work
 
-Here is a curated list of past projects: [[Selected past projects]]
-A full list can be found here: [[All past projects]]
+Here is a curated list of past projects: [[Selected past projects]]. Full list can be found here: [[All past projects]]
 
