@@ -33,7 +33,7 @@
 ### Other
 - Nov 24, 2022: Movie Recommendations for Puzzle-Lovers Like Me (Live Post)
 	- https://blog.aayushg.com/movies/
-	- Aayush and I took a film class together to get more into films. It was wildly successful for him. I still watch <10 movies a year. I'm working on it
+	- Aayush and I took a film class together to get more into films. It was wildly successful for him. I still watch ~5 movies a year. I'm working on it
 - Oct 17, 2023: The Future of Open Education at MIT/Harvard
 	- https://blog.aayushg.com/education/
-	- Some really cool side-project work (Aayush has many insane side projects) to bootstrap more free college content online compared to OCW's slow pace
+	- Some really cool side-project work (Aayush has many insane side projects) to bootstrap more free college content online compared to OCW's snail pace

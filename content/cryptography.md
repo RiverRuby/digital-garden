@@ -1,8 +1,25 @@
-In my words, **cryptography** is a discipline combining ideas from mathematics and computer science to make things that are hard to break.
+In my words, **cryptography** is a discipline combining ideas from mathematics and computer science to make things that are hard to break. In this framing, it is inherently a [[defensive]] technology.
 
 I've been lucky enough to work in cryptography since early 2016, working on an early PoW alternative called Proof-of-Space as a part of a research program called [MIT Primes](https://math.mit.edu/research/highschool/primes/index.php). The scheme involved Merkle queries on a large **hard-to-pebble graph** to prove that you'd stored a significant portion of the graph on your hard drive.
 
 I now work primarily on [[ZK]] tech, supported by the [[PSE]] (Privacy & Scaling Explorations) team at the Ethereum Foundation, exploring the intersection of NFC and ZK as a way to bring private data [[ownership]] to regular people.
+
+## Cryptography project proposals
+
+> [[SXG]] proofs & lobbying
+- This website signs its data with SXG!
+- I want to make proofs about what River says on other parts of the web!
+- And then let's do it for your website (and Medium, Substack, Mirror, and all major media sites...once we lobby them all to also add SXG!)
+	  
+> [[SHAmaphore]]
+- SHA256[^a] + [[Semaphore]] for 3 gadgets: `HashSignature`, `AnonSignIn`, `Plume`
+- Quantum resistant, using standard hash functions, recursion friendly, hell yes
+- Good bye Poseidon!!
+
+> [[DKIM-BIN]]
+- Current UX of [[zk-email]] is too poor to enable any useful applications building on private emails
+- Create a more substantial platform that automatically & privately parses incoming emails to extract useful ZK proofs
+
 
 ## Why do I like cryptography?
 

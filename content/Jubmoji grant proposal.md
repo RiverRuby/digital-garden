@@ -4,6 +4,7 @@ title: Jubmoji PSE Grant Proposal
 ---
 > Originally from the PSE grant proposal for Jubmoji
 > Costs and salary redacted, but happy to discuss how much I was awarded in DMs
+> Primary evaluator and champion of this work was Althea as coordinator of bridge team!
 
 ## Project Overview 📄
 

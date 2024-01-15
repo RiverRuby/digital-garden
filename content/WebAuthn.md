@@ -9,7 +9,13 @@ My first e2e project with WebAuthn was [[heyauthn!]] This used parts of the WebA
 
 
 I am super excited about its applications to:
+
 - Passkeys
 	- Giving everyone public keys everywhere!
+
 - [Semaphore](https://github.com/semaphore-protocol/semaphore/tree/main/packages/heyauthn)
-- [Encryption](https://blog.millerti.me/2023/01/22/encrypting-data-in-the-browser-using-webauthn/)
+	- Using WebAuthn to store semaphore identities for easier access to ZK applications
+	- Security is equivalent to guessing a UUID, which should be secure enough for initial applications until better support
+	- Can make much better with PRF,
+- [[The Wonders of WebAuthn PRF]]
+	- 

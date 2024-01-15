@@ -2,7 +2,7 @@
 date: 2023-07-15
 title: Project Vinyl Technical Roadmap
 ---
-> Based on conversations with Rachel, Althea, Richard, Barry, and Aayush
+> Based on conversations with Rachel, Althea, Richard, [[Barry WhiteHat]], and [[yush]]
 > Originally from https://hackmd.io/@RiverRuby/project-vinyl-roadmap
 
 An attempt to return to private ownership of content, but still digital-native. A world in between **vinyl records** and Spotify. A future enabled by **signatures and ZK**. A tactile and smooth interaction powered by **NFC chips**.

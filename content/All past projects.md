@@ -6,54 +6,60 @@ This is a fairly complete record of River's technical projects that are relevant
 	- Ideas were converted into the [[Jubmoji grant proposal]] [[PSE]] grant proposal!
 	
 - **(05/23 to 06/23)** [[ZuStamps]]
-	- Funded by 0xPARC, led by me and collaborated with Rachel & Althea
+	- Funded by [[0xPARC]], led by me and collaborated with Rachel & Althea
 	- First deployment of signature-producing NFC chips for ZK applications
 	
 - **(04/23 to 05/23)** [Zupoll](https://zupoll.org)
-	- Funded by 0xPARC, collaborated with Sampriti
+	- Funded by [[0xPARC]], collaborated with Sampriti
 	- [Developed a polling app](https://github.com/proofcarryingdata/zupoll) built on Semaphore for Zuzalu citizens to use for polls
 	- Don't think the privacy benefits outweigh the UX costs unfortunately
 	
 - (**02/23 to 04/23**) [Zupass](https://github.com/proofcarryingdata/zupass) and PCD SDK
-	- Funded by 0xPARC, led by Brian and collaborated with Ivan & DC
+	- Funded by [[0xPARC]], led by Brian and collaborated with Ivan & DC
 	- One of three full-time developers on the (cracked) Zupass team
 	
 - (**02/23 to 04/23**) [[WebAuthn]] Halo2 ZK wrapper
-	- Funded by 0xPARC/[[PSE]], project led by Richard and proposed/supported by me
+	- Funded by [[0xPARC]]/[[PSE]], project led by Richard and proposed/supported by me
 	- Creating [ZK circuits](https://github.com/zkwebauthn/webauthn-halo2) to prove knowledge of a valid WebAuthn signature
 	- Applied for use in an [AA wallet](https://www.noseedphrases.xyz/) by [Know Nothing Labs](https://www.knownothinglabs.xyz/)
 	- Researched if WebAuthn keys could be a reasonable nullifier; the guarantees are not very strong unfortunately
+
+- (**01/23 to 03/23**) [Nozee](https://nozee.xyz), or ZK-Blind
+	- Collaborated with Emma, Sehyun, [[yush]]
+	- Using zk-[[JWT]] to build an anonymous proof of organization
+	- Built on top of [[zk-email]]
 	
 - (**11/22 to 02/23**) [[heyauthn!]]
+	- Funded by [[Personae Labs]], collaborated with Sehyun and Emma
 	- Demo using [[WebAuthn]] to power [[Semaphore]] identities
 		- Later upstreamed to [main Semaphore repo](https://github.com/semaphore-protocol/semaphore/tree/main/packages/heyauthn) by Richard!
 	- Used NFC [[CMAC chips]] to create Semaphore groups, first documented use of NFC for ZK
 	- Posted to a ZK IAP class Discord channel
 	
 - (**01/23 to 02/23**) MIT [ZK IAP](https://zkiap.com) instructor and TA
-	- Funded by 0xPARC
+	- Funded by [[0xPARC]]
 	- Lecturer for Session 4 and partial lecturer for Session 11
 	- TA for office hours and mentored a few end-of-course projects
 
 ## 2022
 - **(11/22 to 01/23)** [Right-field secp256k1 ECDSA research](https://personaelabs.org/posts/spartan-ecdsa/)
-  - Funded by Personae Labs, collaborated with Dan Tehrani
+  - Funded by [[Personae Labs]], collaborated with Dan Tehrani
   - Iteration of work started with [[efficient-ecdsa]]
   - Avoiding wrong-field arithmetic all together by using a zkSNARK that operates on finite fields that aren't FFT friendly
   - Focused on [Halo2-IPA combined with ECFFT](https://github.com/personaelabs/halo2-secp), unfortunately this was quite difficult and Dan's work with Spartan ended up being successful
   
 - **(09/22 to 11/22)** [[efficient-ecdsa]]
-  - Funded by Personae Labs, collaborated with Dan Tehrani
+  - Funded by [[Personae Labs]], collaborated with Dan Tehrani
   - Developed in an [ETH research post](https://ethresear.ch/t/efficient-ecdsa-signature-verification-using-circom/13629)
   
 - **(08/22 to 10/22)** [[In-person heyanon]]
-  - Funded by 0xPARC and Personae Labs
+  - Funded by [[0xPARC]] and [[Personae Labs]]
   - Used heyanon to build a demo of in-person anonymous speech at SBC '22
   - Used [[Semaphore]] identities, given out as QR codes
   - First ZK demo to involve multiple roles which I find 
   
 - **(03/22 to 11/22)** [[heyanon!]]
-  - Funded by 0xPARC and Personae Labs, collaborated with Lakshman Sankar
+  - Funded by [[0xPARC]] and [[Personae Labs]], collaborated with Lakshman Sankar
   - Anon twitter posting with ETH reputation
   - ECDSA proving was way too slow for this to be useful/fun, I was laser focused on improving that in later projects
 
