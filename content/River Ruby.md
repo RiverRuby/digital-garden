@@ -9,7 +9,7 @@ title: River Ruby
 
 - \`\`**Ruby**'' is my birthstone, and my favorite gem overall. And I've always been obsessed with the color red, as this website hopefully makes clear. It also matches my first jubmoji [[🔺]], which was a coincidence too good to not lean into!
 
-It feels much easier to present my technical ideas while in a distinct identity. It's not that they're offensive or otherwise negative LOL, it's just nice to have a clean split from the other interests in my life (primarily [[decor]] & [[music]]) instead of trying to present one cohesive narrative. It also focuses the content of each of my different outlets, providing a cleaner consumption experience all around.
+It feels much easier to present my technical ideas while in a distinct identity. It's not that they're offensive or otherwise negative LOL, it's just nice to have a clean split from the other interests in my life (primarily [[music]] & [[decor]]) instead of trying to present one cohesive narrative. It also focuses the content of each of my different outlets, providing a cleaner consumption experience all around.
 
 But also, who knows, maybe this isn't right for me. Maybe I'll change everything. I'm just FAFOing[^4]!
 

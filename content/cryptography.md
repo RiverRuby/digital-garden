@@ -30,3 +30,5 @@ It is ideal for brains that endeavor to understand every building block of what 
 Cryptography is also [[open-source]] by nature, which I love. If your cryptography can't be scrutinized and attacked and critiqued, it isn't real. This necessitates your math and code being open source and ready for anyone to use. This creates a naturally open and positive-sum ecosystem, which feels very good.
 
 It's also super math heavy, and I fucking love math. It's the purest art form humans have found. Every day I get to learn new math is a great one.
+
+[^a]: I am a SHA-256 lover over Keccak or BLAKE or Grostl. fight me

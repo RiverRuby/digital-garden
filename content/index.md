@@ -38,14 +38,14 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 ## Proposals
 
-All of these ideas arework-in-progress; I will properly publish them when they are finished. But if any of them resonate or you know of similar work, please reach out!
+All of these ideas are works-in-progress; I will properly publish + promote them when they are finished. But if any of them resonate or you know of similar work, please reach out!
 
 - [[cryptography#Cryptography project proposals]]
 - [[autonomous worlds#AW project proposals]]
 - [[artificial intelligence#AI project proposals]]
 
 ## Past work 
+A compilation of various projects that have shaped the technologist I am and want to be. It's a mix of applied research, e2e products, and academic work.
 
-Here is a curated list of past projects: [[Selected past projects]]. Full list can be found here: [[All past projects]]
-
-[^a]: I am a SHA-256 lover over Keccak or BLAKE. fight me
+ - [[Selected past projects]]
+- [[All past projects]]
