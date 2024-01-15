@@ -1,1 +1,1 @@
-Digital signatures provide authenticity.
+Digital [[signatures]] provide authenticity.

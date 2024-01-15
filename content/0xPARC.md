@@ -1,0 +1,1 @@
+The organization that funded my early journey through the applied ZK space. Co-led by [[Ludens]] and [[gubsheep]].

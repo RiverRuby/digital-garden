@@ -33,14 +33,6 @@ The initial motivation and goals for this project were brainstormed by Rachel an
 
 Notably, it was out of scope to generate ZK proofs over the stamps. Although it would’ve been possible with existing tools like [spartan-ecdsa](https://github.com/personaelabs/spartan-ecdsa), we focused on the stamp collecting experience itself. In addition, we didn’t yet have applications or protocols that were ingesting these stamps to build other experiences.
 
-![The stamp for attending the 5/16 town hall, where we launched the stamps project.](add_stamp.png)
-
-The stamp for attending the 5/16 town hall, where we launched the stamps project.
-
-![The stamp in the Zuzalu passport, Zupass, where all residents and visitors stored their ticket and stamps.](ColorBlack_Midnight.png)
-
-The stamp in the Zuzalu passport, Zupass, where all residents and visitors stored their ticket and stamps.
-
 ## Metrics
 
 In the end, we allocated **34** different chips which were stored in plastic white cards the size of a credit card. Each card corresponded to a different memento, and had a (nail-polish) painted design on the front and a custom designed stamp when Zuzalu participants added a stamp to their phone. A read-only list of all the cards, their designs, and their owners can be found [here](https://airtable.com/shrSnWKFbecOnzVDM/tblEUyUjq6AyS8PZB).

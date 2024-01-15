@@ -1,0 +1,1 @@
+[[Very cracked]]. Head of [Lattice](https://lattice.xyz) and co-leads [[0xPARC]]. Will write more here soon.

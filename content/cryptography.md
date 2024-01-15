@@ -2,7 +2,7 @@ In my words, **cryptography** is a discipline combining ideas from mathematics a
 
 I've been lucky enough to work in cryptography since early 2016, working on an early PoW alternative called Proof-of-Space as a part of a research program called [MIT Primes](https://math.mit.edu/research/highschool/primes/index.php). The scheme involved Merkle queries on a large **hard-to-pebble graph** to prove that you'd stored a significant portion of the graph on your hard drive.
 
-I now work primarily on [[ZK]] tech, supported by the [Privacy & Scaling Explorations](https://pse.dev) team at the Ethereum Foundation, exploring the intersection of NFC and ZK as a way to bring private data [[ownership]] to regular people.
+I now work primarily on [[ZK]] tech, supported by the [[PSE]] (Privacy & Scaling Explorations) team at the Ethereum Foundation, exploring the intersection of NFC and ZK as a way to bring private data [[ownership]] to regular people.
 
 ## Why do I like cryptography?
 

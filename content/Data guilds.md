@@ -1,7 +1,7 @@
 ---
 date: 2023-11-01
 ---
-> Jointly written by Lily Jordan, Vivek Bhupatiraju, and Aayush Gupta
+> Draft jointly written by Lily Jordan, Vivek Bhupatiraju, and Aayush Gupta
 
 The current model of how personal data flows through the internet is that companies like Google, Meta, and Amazon glean a set of data about you based on your interactions with them and then uses the data to sell targeted ad campaigns. But there’s a fast-emerging alternative: the zero-knowledge sovereign model of data, where you log your data locally and can then selectively release proofs about that data. This allows for novel, less user-hostile approaches.
 
@@ -59,7 +59,7 @@ For a sufficiently homogenous group, you could give everyone the same ads; for m
 
   
 
-### Privacy model between user and guild (recursive or no?)
+### Privacy model between user and guild
 
   
 
@@ -79,7 +79,7 @@ Requiring proof of unique humanity is one generic way to combat bots. Data guild
 
   
 
-It’ll be a hard sell to integrate data guilds into a large legacy platform; emerging social platforms or even entirely new ones are better positioned to integrate ZK. Data guilds can largely constitute their own layer; the only places a social platform would have to plug in are 1) providing attestations that user logs legitimately came from that platform, and 2) displaying the ads. Even those can be decoupled – for instance, the data users provide doesn’t have to be engagement with a particular platform; it could be [proof-carrying-data](https://pcd.team/) from anywhere. Or you could bypass the need for 2) by implementing an AdBlock-like extension that blocks all ads across the web except those that pay out to your guilds.
+It’ll be a hard sell to integrate data guilds into a large legacy platform; emerging social platforms or even entirely new ones are better positioned to integrate ZK. Data guilds can largely constitute their own layer; the only places a social platform would have to plug in are 1) providing attestations that user logs legitimately came from that platform, and 2) displaying the ads. Even those can be decoupled – for instance, the data users provide doesn’t have to be engagement with a particular platform; it could be signatures from any service. Or you could bypass the need for 2) by implementing an AdBlock-like extension that blocks all ads across the web except those that pay out to your guilds.
 
   
 
