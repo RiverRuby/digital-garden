@@ -1,6 +1,6 @@
 In my mind, **autonomous worlds** are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced](https://0xparc.org/blog/autonomous-worlds) by [[Ludens]] in 2022 , and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
 
-In my understanding of the blockchain ecosystem and AWs, basically all the 'core' novel building blocks can be reframed as AWs (Uniswap, MakerDAO, Aave, etc). Thus, I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
+In my understanding of the blockchain ecosystem, basically all the 'core' novel building blocks can be more effectively reframed as AWs (Uniswap, MakerDAO, Aave, Semaphore on-chain etc). Thus, throughout this garden I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
 
 Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in the above piece, the concept is still taking form, and it's very unclear where it will end up. It could power the infinite internet casino that web3 has found PMF for, or it could enable the ideal metaverse playground we all dream of. To be determined, and I'm hopeful that it's the latter!
 

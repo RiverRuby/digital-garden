@@ -20,10 +20,10 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 ## In-flight projects
 
-> [[ZK Quests]] and [[jubsignal]] (December '23 to present)
+> [[Denver ZK Quests]] and [[jubsignal]] (December '23 to present)
 - Funded by [[PSE]]
 - 2024 activation at ETHDenver using e2e encrypted [[baby jubjub]] signatures
-- Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P sigs to maintain [[ownership]]
+- Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P [[signatures]] to maintain [[ownership]]
 - Currently expecting 18,000 attendees!
 
 > [[Jubmoji]] (August '23 to present)
@@ -45,7 +45,7 @@ All of these ideas are works-in-progress; I will properly publish + promote them
 - [[artificial intelligence#AI project proposals]]
 
 ## Past work 
-A compilation of various projects that have shaped the technologist I am and want to be. It's a mix of applied research, e2e products, and academic work.
+Compilations of various projects that have shaped the technologist I am. It's a mix of applied research, e2e products, and academic work.
 
  - [[Selected past projects]]
-- [[All past projects]]
+ - [[All past projects]]

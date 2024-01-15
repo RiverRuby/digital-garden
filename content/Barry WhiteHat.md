@@ -18,3 +18,5 @@
 	- Helped inspire [Lasso](https://people.cs.georgetown.edu/jthaler/Lasso-paper.pdf), one of the most promising lookup tools available to ZK today
 - [[PSE]]
 	- Barry is the team lead of Privacy & Scaling Explorations, a group at the Ethereum Foundation
+- [[Jubmoji]]
+	- Not important yet. 🔜™️

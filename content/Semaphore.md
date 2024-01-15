@@ -90,7 +90,7 @@ proof AnonSignIn:
 		int pathIndices
 	checks:
 		publicKey === hash(password)
-		root === hashMerkleCheck(
+		groupMerkleRoot === hashMerkleCheck(
 			leaf=publicKey,
 			siblings,
 			pathIndices
@@ -137,5 +137,5 @@ proof Plume:
 
 This makes it more clear that the plume is a secondary identity based on whatever group they're participating.
 
-## Linking them
+## Connecting them
 These gadgets are not necessarily powerful on their own. For example, a `Plume` proof is not useful unless we know something about the user with a specific `password`. The easiest way to get some reputation there is to link the `Plume` proof with an `AnonSignIn` proof. This enables private speech and also private voting, if the message you send is a vote in some poll (cc [Zupoll](https://zupoll.org)).
