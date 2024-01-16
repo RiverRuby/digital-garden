@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 ---
-My name is [[River Ruby]] or [[🔺]] for short. This [personal wiki](https://en.wikipedia.org/wiki/Personal_wiki) contains my thoughts on technology. I will primarily be exploring [[cryptography]], but I will also write about [[autoworlds]], [[AI]], and other technical intrigues!
+My name is [[River Ruby]] or [[🔺]] for short. This [personal wiki](https://en.wikipedia.org/wiki/Personal_wiki) contains my thoughts on technology. I will primarily be exploring [[cryptography]], but I will also write about [[autoworlds]], [[AI]], and other technical intrigues! Here is a collection of past projects for a taste of my interests: [[Selected past projects]]
 
 All writing here is a work-in-progress, and very open to feedback! There are many pieces that are incomplete or half-baked -- I get distracted easily and hop around many pages when I write. If you want to discuss something further, suggest a correction, or suggest a topic to write about, please email me@riverruby.xyz!
 
@@ -9,7 +9,6 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 ## Selected blog posts
 
-- [[Selected past projects]]
 - [[Data guilds]]
 - [[Jubmoji grant proposal]]
 - [[ZuStamps]]
