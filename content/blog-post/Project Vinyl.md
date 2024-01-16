@@ -2,6 +2,8 @@
 date: 2023-07-15
 title: Project Vinyl Technical Roadmap
 ---
+> From 01/15/23: these represent the plan as of Summer 2023. Things have changed a lot as our team learns more but there's still some good nuggets here!
+
 > Based on conversations with Rachel, Althea, Richard, [[Barry WhiteHat]], and [[yush]]
 > Originally from https://hackmd.io/@RiverRuby/project-vinyl-roadmap
 

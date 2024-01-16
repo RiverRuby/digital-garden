@@ -11,22 +11,30 @@ proof HashSignature:
 	public:
 		int publicKey
 		int messageHash
+		int salt
 	private:
 		int password
 	checks:
-		publicKey === sha(password)
+		publicKey === sha(
+			password, 
+			salt
+		)
 ```
 
 ```
 proof AnonSignIn:
 	public:
 		int groupMerkleRoot
+		int salt
 	private:
 		int password
 		int siblings
 		int pathIndices
 	checks:
-		int publicKey === sha(password)
+		int publicKey === sha(
+			password,
+			salt
+		)
 		root === shaMerkleCheck(
 			leaf=publicKey,
 			siblings,

@@ -3,16 +3,18 @@ title: Welcome!
 ---
 My name is [[River Ruby]] or [[🔺]] for short. This digital garden contains my thoughts on technology. Primarily I will explore [[cryptography]], but I will also write about [[autonomous worlds]], [[artificial intelligence]], and other technical intrigues!
 
-Everything here is a work-in-progress, and very open to feedback! I will occasionally publish specific pieces, but expect those pieces to be changed over time as I learn more. And there will certainly be pages that are incomplete or just have a sentence that ends abruptly -- I get distracted easily and hop around many pages when I write. If you want to discuss something further or suggest a correction, please email me@riverruby.xyz and I would love to chat or
+All writing here is a work-in-progress, and very open to feedback! There are many pieces that are incomplete or half-baked -- I get distracted easily and hop around many pages when I write. If you want to discuss something further, suggest a correction, or suggest a topic to write about, please email me@riverruby.xyz!
 
 I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd and easily excitable. My favorite activity is to listen to other nerds nerd out about random shit they love. Doesn't have to be anything I know about, I just feed off of genuine passion. If that resonates, reach out! Let's be nerds together.
 
-## Selected posts
+## Selected blog posts
 
 - [[Selected past projects]]
+- [[Data guilds]]
+- [[Jubmoji grant proposal]]
 - [[ZuStamps]]
 - [[efficient-ecdsa]]
-- [[heyanon!]] & [[heyauthn!]]
+- [[In-person heyanon]]
 
 ## Looking for feedback
 
