@@ -1,1 +1,0 @@
-Personae Labs, led by Lakshman and Dan. GitHub at https://github.com/personaelabs and website at https://personaelabs.org

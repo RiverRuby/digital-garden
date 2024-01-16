@@ -22,7 +22,7 @@ This a curated list of past projects that I am proud of and/or display my resear
 - Funded by [[Personae Labs]], collaborated with Dan Tehrani
 - Culminated in [spartan-ecdsa](https://personaelabs.org/posts/spartan-ecdsa/), developed after I learned about the secp-secq cycle
 - I focused on [Halo2-IPA combined with ECFFT](https://github.com/personaelabs/halo2-secp), unfortunately this was quite difficult and Dan's work with Spartan ended up being successful
-- [[efficient-ecdsa]] [[efficient-ecdsa]] research and implementation in [heyanoun](https://github.com/personaelabs/heyanoun)
+- [[efficient-ecdsa]] research and implementation in [heyanoun](https://github.com/personaelabs/heyanoun)
 
 > **March '22 to November '22**: [[heyanon!]]
 - Funded by [[0xPARC]] and [[Personae Labs]], collaborated with Lakshman Sankar

@@ -7,7 +7,7 @@ title: River Ruby
 	- Constantly changing -> always flowing, always growing, always learning
 	- Tranquil, pristine -> i gotta find peace of mind![^3]
 
-- \`\`**Ruby**'' is my birthstone, and my favorite gem overall. And I've always been obsessed with the color red, as this website hopefully makes clear. It also matches my first jubmoji [[🔺]], which was a coincidence too good to not lean into!
+- \`\`**Ruby**'' is my birthstone, and my favorite gem overall. And I've always been obsessed with the color red, as this website hopefully makes clear. It also matches my first [[Jubmoji]] [[🔺]], which was a coincidence too good to not lean into!
 
 It feels much easier to present my technical ideas while in a distinct identity. It's not that they're offensive or otherwise negative LOL, it's just nice to have a clean split from the other interests in my life (primarily [[music]] & [[decor]]) instead of trying to present one cohesive narrative. It also focuses the content of each of my different outlets, providing a cleaner consumption experience all around.
 

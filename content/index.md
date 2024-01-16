@@ -8,12 +8,14 @@ Everything here is a work-in-progress, and very open to feedback! I will occasio
 I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd and easily excitable. My favorite activity is to listen to other nerds nerd out about random shit they love. Doesn't have to be anything I know about, I just feed off of genuine passion. If that resonates, reach out! Let's be nerds together.
 
 ## Selected posts
+
 - [[Selected past projects]]
 - [[ZuStamps]]
 - [[efficient-ecdsa]]
 - [[heyanon!]] & [[heyauthn!]]
 
 ## Looking for feedback
+
 - [[ZK]]
 - [[VIP]]
 - [[Semaphore]]
@@ -22,13 +24,13 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 > [[Denver ZK Quests]] and [[jubsignal]] (December '23 to present)
 - Funded by [[PSE]]
-- 2024 activation at ETHDenver using e2e encrypted [[baby jubjub]] signatures
+- 2024 activation at ETHDenver using e2e encrypted [[Baby jubjub]] signatures
 - Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P [[signatures]] to maintain [[ownership]]
 - Currently expecting 18,000 attendees!
 
 > [[Jubmoji]] (August '23 to present)
 - Funded by [[PSE]], project & design led by Rachel, technology led by me
-- 2023 activation at Zu/Devconnect using NFC cards that produce unique [[baby jubjub]] [[signatures]] upon tap
+- 2023 activation at Zu/Devconnect using NFC cards that produce unique [[Baby jubjub]] [[signatures]] upon tap
 - Privately digitize [[in-person]] experiences into [[VIP]] data
 
 > [[Data guilds]] (July '23 to present)
@@ -39,13 +41,12 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 ## Proposals
 
 All of these ideas are works-in-progress; I will properly publish + promote them when they are finished. But if any of them resonate or you know of similar work, please reach out!
-
 - [[cryptography#Cryptography project proposals]]
 - [[autonomous worlds#AW project proposals]]
 - [[artificial intelligence#AI project proposals]]
 
 ## Past work 
-Compilations of various projects that have shaped the technologist I am. It's a mix of applied research, e2e products, and academic work.
 
+Compilations of various projects that have shaped the technologist I am. It's a mix of applied research, e2e products, and academic work.
  - [[Selected past projects]]
  - [[All past projects]]

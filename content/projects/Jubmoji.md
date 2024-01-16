@@ -4,7 +4,7 @@ The [[PSE]] grant proposal and original specification for this project can be fo
 ## High-level
 - 2023 activation at Zu/Devconnect using NFC cards that produce unique baby jubjub signatures upon tap to privately digitize in-person experiences
 - Signatures were represented as "jubmojis"
-	- Jub = [[baby jubjub]] elliptic curve
+	- Jub = [[Baby jubjub]] elliptic curve
 		- Using this curve in NFCwas the main technical advancement this project made
 		- A shoutout to one of its inventors + suggestor , [[PSE]] team lead [[Barry WhiteHat]]
 	- Emoji = succinct representation of card public key, akin to ENS for ethereum address
