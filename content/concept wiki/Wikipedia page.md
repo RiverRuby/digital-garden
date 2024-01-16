@@ -1,1 +1,0 @@
-I would like my projects to have positive Wikipedia pages. I love Wikipedia, it's my second favorite social network ([[YouTube]] comes first).

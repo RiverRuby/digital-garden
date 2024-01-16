@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 ---
-My name is [[River Ruby]] or [[🔺]] for short. This digital garden contains my thoughts on technology. Primarily I will explore [[cryptography]], but I will also write about [[autonomous worlds]], [[artificial intelligence]], and other technical intrigues!
+My name is [[River Ruby]] or [[🔺]] for short. This [personal wiki](https://en.wikipedia.org/wiki/Personal_wiki) contains my thoughts on technology. I will primarily be exploring [[cryptography]], but I will also write about [[autoworlds]], [[AI]], and other technical intrigues!
 
 All writing here is a work-in-progress, and very open to feedback! There are many pieces that are incomplete or half-baked -- I get distracted easily and hop around many pages when I write. If you want to discuss something further, suggest a correction, or suggest a topic to write about, please email me@riverruby.xyz!
 
@@ -44,8 +44,8 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 All of these ideas are works-in-progress; I will properly publish + promote them when they are finished. But if any of them resonate or you know of similar work, please reach out!
 - [[cryptography#Cryptography project proposals]]
-- [[autonomous worlds#AW project proposals]]
-- [[artificial intelligence#AI project proposals]]
+- [[autoworlds#AW project proposals]]
+- [[AI#AI project proposals]]
 
 ## Past work 
 

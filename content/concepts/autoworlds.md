@@ -1,4 +1,4 @@
-In my mind, **autonomous worlds** are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced](https://0xparc.org/blog/autonomous-worlds) by [[Ludens]] in 2022 , and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
+In my mind, **autonomous worlds** (autoworlds or AW) are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced](https://0xparc.org/blog/autonomous-worlds) by [[Ludens]] in 2022 , and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
 
 In my understanding of the blockchain ecosystem, basically all the 'core' novel building blocks can be more effectively reframed as AWs (Uniswap, MakerDAO, Aave, Semaphore on-chain etc). Thus, throughout this garden I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
 
@@ -10,7 +10,7 @@ Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in
 1. Users can create "secret materials" in the game by uploading a hash of a material/machine path to a smart contract
 2. Users can prove they have unlocked this secret material by proving knowledge of the path's pre-image in ZK, using ZK-friendly hashes like Poseidon (for now)
 
- > Using [NFC hardware wallets](https://github.com/arx-research/libhalo/tree/master) as a tangible "game disk" for [[autonomous worlds]]
+ > Using [NFC hardware wallets](https://github.com/arx-research/libhalo/tree/master) as a tangible "game disk" for [[autoworlds]]
 - Preload NFC hardware wallets with some starter ETH on whatever fucked up L2 your AW or on-chain game is using + some cool game specific NFTs worth $X
 - Sell the chip in a disk form factor for $X+10 (+25? +0.02ETH?) at conferences
 - Avoids painful bridging, which was the largest dropoff in activation according to [Small Brain Games](https://twitter.com/0xsmallbrain) for https://draw.tech
