@@ -1,6 +1,6 @@
 🚧 This is a work in progress 🚧
 
-This is part of a longer series called “[[cryptography]] as [[offensive]] technology”, an exploration of how we can use cryptography to **enable new affordances for users** instead of just protecting against bad outcomes. Defense for offense.
+This is part of a longer series called “[[CG]] as [[offensive]] technology”, an exploration of how we can use cryptography to **enable new affordances for users** instead of just protecting against bad outcomes. Defense for offense.
 
 ## Why do these properties matter?
 [[Ownership]] and portability (equivalent to [[VIP]]) are some of the key ideas and unlocks discussed around web3/crypto. These are genuinely new affordances of this field, and are areas where our modern technological landscape is severely lacking.

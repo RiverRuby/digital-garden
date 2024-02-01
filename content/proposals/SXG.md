@@ -29,7 +29,7 @@ Combining the signatures of SXG with ZK allows us to **potentially make proofs a
 	- Prove a much more complex ML predicate (cc [EZKL](https://ezkl.xyz))
 - If stock exchanges signed their price data page,
 	- Proving a stock had a price at a specific time
-- Email me@riverruby.xyz with more ideas! I will add them here and we can collaborate!
+- Email me@vivs.wiki with more ideas! I will add them here and we can collaborate!
 
 These sorts of proofs could then be taken to platforms like Twitter and Farcaster to provide verifiable information flow onto those platforms. At the very least, we can have proofs that certain screenshots are real. At the other extreme, in a world where AI becomes more powerful + spammy, we can filter our feeds to only display information with signatures.
 

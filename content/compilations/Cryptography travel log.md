@@ -1,6 +1,6 @@
 🚧 This is a work in progress 🚧
 
-One of the great perks of working in [[cryptography]]-adjacent worlds (mostly web3 and blockchain, but [[ZK]] is on the rise!) is that it's quite global. In many ways, the best users of this technology do not live in more privileged countries, so on a distribution level it is crucial to spend time in other places and present the technology there.
+One of the great perks of working in [[CG]]-adjacent worlds (mostly web3 and blockchain, but [[ZK]] is on the rise!) is that it's quite global. In many ways, the best users of this technology do not live in more privileged countries, so on a distribution level it is crucial to spend time in other places and present the technology there.
 
 My travel in the space started after COVID restrictions lifted. Here's an incomplete list of places I've been able to go to:
 

@@ -1,4 +1,4 @@
-This is a fairly complete record of River's technical projects that are relevant to current lines of work.
+This is a fairly complete record of my technical projects that are relevant to current lines of work.
 
 ## 2023
 - (**06/23 to 08/23**) [[Project Vinyl]]

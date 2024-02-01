@@ -1,4 +1,8 @@
-In my mind, **cryptography** is a discipline combining ideas from math and CS to **make stuff hard to break**. In this framing, it is inherently a [[defensive]] technology.
+---
+title: cryptography
+---
+
+In my mind, **cryptography** or **CG** is a discipline combining ideas from math and CS to **make stuff hard to break**. In this framing, it is inherently a [[defensive]] technology.
 
 I've been lucky enough to work in cryptography since early 2016, working on an early PoW alternative called Proof-of-Space as a part of a research program called [MIT Primes](https://math.mit.edu/research/highschool/primes/index.php). The scheme involved Merkle queries on a large **hard-to-pebble graph** to prove that you'd stored a significant portion of the graph on your hard drive.
 
@@ -18,7 +22,7 @@ It's also super math heavy, and I fucking love math. It's the purest art form hu
 
 > [[SXG]] proofs & lobbying
 - This website signs its data with SXG!
-- I want to make proofs about what River says on other parts of the web!
+- I want to make proofs about what I say on other parts of the web!
 - And then let's do it for your website (and Medium, Substack, Mirror, and all major media sites...once we lobby them all to also add SXG!)
 	  
 > [[SHAmaphore]]

@@ -1,4 +1,4 @@
-[[Very cracked]]. Here's a WIP list of important [[ZK]] and [[cryptography]] things that Barry is  inventor, co-inventor, or major supporter of:
+[[Very cracked]]. Here's a WIP list of important [[ZK]] and [[CG]] things that Barry is  inventor, co-inventor, or major supporter of:
 - [[Semaphore]]
 - [RLN](https://ethresear.ch/t/semaphore-rln-rate-limiting-nullifier-for-spam-prevention-in-anonymous-p2p-setting/5009)
 - [UniRep](https://ethresear.ch/t/anonymous-reputation-risking-and-burning/3926)

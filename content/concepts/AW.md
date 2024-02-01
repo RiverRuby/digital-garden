@@ -1,3 +1,7 @@
+---
+title: autoworlds
+---
+
 In my mind, **autonomous worlds** (autoworlds or AW) are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced](https://0xparc.org/blog/autonomous-worlds) by [[Ludens]] in 2022 , and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
 
 In my understanding of the blockchain ecosystem, basically all the 'core' novel building blocks can be more effectively reframed as AWs (Uniswap, MakerDAO, Aave, on-chain [[Semaphore]] etc). Thus, throughout this wiki I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
@@ -16,7 +20,7 @@ Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in
 - All private data is kept with the user, or backed up somewhere
 - Would love to see an E2E implementation of this by end of 2024
 
- > Using [NFC hardware wallets](https://github.com/arx-research/libhalo/tree/master) as a tangible "game disk" for [[autoworlds]]
+ > Using [NFC hardware wallets](https://github.com/arx-research/libhalo/tree/master) as a tangible "game disk" for [[AW]]
 - Preload NFC hardware wallets with some starter ETH on whatever fucked up L2 your AW or on-chain game is using + some cool game specific NFTs worth $X
 - Sell the chip in a disk form factor for $X+10 (+25? +0.02ETH?) at conferences
 - Avoids painful bridging, which was the largest dropoff in activation according to [Small Brain Games](https://twitter.com/0xsmallbrain) for https://draw.tech
@@ -25,7 +29,7 @@ Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in
 
 ## Past work
 
-My focus is mostly on advanced [[cryptography]], and I have not been able to spend as much time building and researching AWs as I would like. However, I believe the two areas are very synergistic and I am excited to see them merge over the next few years as infrastructure and tooling improves across the entire stack.
+My focus is mostly on advanced [[CG]], and I have not been able to spend as much time building and researching AWs as I would like. However, I believe the two areas are very synergistic and I am excited to see them merge over the next few years as infrastructure and tooling improves across the entire stack.
 
 My main (and very small) contribution thus far was championing the use of early AW infrastructure (MUD v1 with ECS) for any type of project that needed an open & composable backend, instead of the more standard use case of on-chain games. This was done as a drop-in resident at the London AW Residency & Symposium in Fall 2022, which I was lucky to attend despite having very little on-chain gaming interest or background.
 

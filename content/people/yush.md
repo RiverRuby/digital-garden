@@ -1,9 +1,9 @@
 [[Very cracked]]. His blog is [[here]], go see for yourself. It was a major inspiration for this wiki!
 
-## River's favorite posts
+## Favorite technical posts
 
-### Posts River contributed to!
-- Jan 12, 2022: Thinking in Zero Knowledge: Designing a ZK Message Baord
+### Posts I contributed to!
+- Jan 12, 2022: Thinking in Zero Knowledge: Designing a ZK Message Board
 	- https://blog.aayushg.com/zkmessage/
 	- Gave some feedback on the post
 - Dec 1, 2022: PLUME
@@ -11,17 +11,17 @@
 	- Helped with one of the proofs in the paper
 - Dec 12, 2022: ZK Email
 	- https://blog.aayushg.com/zkemail/
-	- Helped speed up SHA proving
+	- Helped speed up SHA proving + other ZK research + strategy work
 
 ### Other
 - Nov 24, 2022: What is going on with witness encryption?
 	- https://blog.aayushg.com/we/
-- Feb 17, 2023: How quantum computers computers affect [[cryptography]]
+- Feb 17, 2023: How quantum computers computers affect [[CG]]
 	- https://blog.aayushg.com/quantumcrypto/
 
-## V✨✨✨✨'s favorite posts
+## Favorite non-technical posts
 
-### Posts V✨✨✨✨ contributed to!
+### Posts I contributed to!
 -  Oct 19, 2022: Travel Recommendations for Novelty-Seekers Like Me (Live Post)
 	- https://blog.aayushg.com/travel/
 	- This dude has seen the world, his recs are incredible
