@@ -1,6 +1,6 @@
 In my mind, **autonomous worlds** (autoworlds or AW) are eternal backends, free of exclusive [[ownership]] and maximally [[VIP]]. They were first [introduced](https://0xparc.org/blog/autonomous-worlds) by [[Ludens]] in 2022 , and were developed as a spiritual successor to **fully on-chain games** like Dark Forest that used the chain for genuinely new affordances and not just adding an NFT here and there.
 
-In my understanding of the blockchain ecosystem, basically all the 'core' novel building blocks can be more effectively reframed as AWs (Uniswap, MakerDAO, Aave, Semaphore on-chain etc). Thus, throughout this garden I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
+In my understanding of the blockchain ecosystem, basically all the 'core' novel building blocks can be more effectively reframed as AWs (Uniswap, MakerDAO, Aave, on-chain [[Semaphore]] etc). Thus, throughout this wiki I will use AW to refer to all on-chain technologies that benefit from global consensus, decentralization, and [[VIP]].
 
 Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in the above piece, the concept is still taking form, and it's very unclear where it will end up. It could power the infinite internet casino that web3 has found PMF for, or it could enable the ideal metaverse playground we all dream of. To be determined, and I'm hopeful that it's the latter!
 
@@ -9,6 +9,12 @@ Even though there's a fairly precise definition of AWs laid out by [[Ludens]] in
 > ZK integration that allows for hidden material creation paths in This Cursed Machine
 1. Users can create "secret materials" in the game by uploading a hash of a material/machine path to a smart contract
 2. Users can prove they have unlocked this secret material by proving knowledge of the path's pre-image in ZK, using ZK-friendly hashes like Poseidon (for now)
+
+> Use MUD to build backend of any experience using [[ECDSA chips]] 
+- One of the really special things about using ECDSA chips (which are already full wallets) is that we don't need any trusted backend to manage state
+- Because everything is signed and can be efficiently ZKP-d about, we can do all the verification and storage logic on chain!
+- All private data is kept with the user, or backed up somewhere
+- Would love to see an E2E implementation of this by end of 2024
 
  > Using [NFC hardware wallets](https://github.com/arx-research/libhalo/tree/master) as a tangible "game disk" for [[autoworlds]]
 - Preload NFC hardware wallets with some starter ETH on whatever fucked up L2 your AW or on-chain game is using + some cool game specific NFTs worth $X

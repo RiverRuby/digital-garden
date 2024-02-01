@@ -1,4 +1,4 @@
-[[Very cracked]]. His blog is [[here]], go see for yourself. It was a major inspiration for this garden!
+[[Very cracked]]. His blog is [[here]], go see for yourself. It was a major inspiration for this wiki!
 
 ## River's favorite posts
 
