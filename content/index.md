@@ -27,7 +27,7 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 - Funded by [[PSE]]
 - 2024 activation at ETHDenver using e2e encrypted [[Baby jubjub]] signatures
-- Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P [[signatures]] to maintain [[ownership]]
+- Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P encr [[signatures]] to maintain [[ownership]]
 - Currently expecting 18,000 attendees!
 
 > [[Jubmoji]] (August '23 to present)

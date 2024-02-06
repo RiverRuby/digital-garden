@@ -35,4 +35,4 @@ It's also super math heavy, and I fucking love math. It's the purest art form hu
 
 
 [^a]: I am a SHA-256 lover over Keccak or BLAKE or Grostl. fight me
-[^b]: I am trying to meme "CG" into existence, like "CS" for computer science. I absolutely hate saying I work on cryptography research and people asking me if that means cryptocurrency. Even though I'm (currently) totally funded by cryptocurrency (shoutout EF and [[PSE]]!) I would like some distance from blockchain. I think blockchain is alright.
+[^b]: I am trying to meme "CG" into existence, like "CS" for computer science. I absolutely hate saying I work on cryptography research and people asking me if that means cryptocurrency. Even though I'm (currently) totally funded by cryptocurrency (shoutout EF and [[PSE]]!) I would like some distance from [[blockchain]]. I think blockchain are okay.
