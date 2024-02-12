@@ -2,14 +2,25 @@ const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "l
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
+function swap(type: "light" | "dark") {
+  if (type === "dark") {
+    document.getElementById("comments-content-light")?.removeAttribute("hidden")
+    document.getElementById("comments-content-dark")?.setAttribute("hidden", "true")
+  } else {
+    document.getElementById("comments-content-dark")?.removeAttribute("hidden")
+    document.getElementById("comments-content-light")?.setAttribute("hidden", "true")
+  }
+
+  document.documentElement.setAttribute("saved-theme", type)
+  localStorage.setItem("theme", type)
+}
+
 document.addEventListener("nav", () => {
   const switchTheme = (e: any) => {
     if (e.target.checked) {
-      document.documentElement.setAttribute("saved-theme", "dark")
-      localStorage.setItem("theme", "dark")
+      swap("dark")
     } else {
-      document.documentElement.setAttribute("saved-theme", "light")
-      localStorage.setItem("theme", "light")
+      swap("light")
     }
   }
 
@@ -17,6 +28,7 @@ document.addEventListener("nav", () => {
   const toggleSwitch = document.querySelector("#darkmode-toggle") as HTMLInputElement
   toggleSwitch.removeEventListener("change", switchTheme)
   toggleSwitch.addEventListener("change", switchTheme)
+  swap(currentTheme === "dark" ? "dark" : "light")
   if (currentTheme === "dark") {
     toggleSwitch.checked = true
   }
@@ -25,8 +37,7 @@ document.addEventListener("nav", () => {
   const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")
   colorSchemeMediaQuery.addEventListener("change", (e) => {
     const newTheme = e.matches ? "dark" : "light"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
+    swap(newTheme)
     toggleSwitch.checked = e.matches
   })
 })
