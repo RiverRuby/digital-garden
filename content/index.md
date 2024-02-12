@@ -34,7 +34,7 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 - Funded by [[PSE]], project & design led by Rachel, technology led by me
 - 2023 activation at Zu/Devconnect using NFC cards that produce unique [[Baby jubjub]] [[signatures]] upon tap
-- Privately digitize [[in-person]] experiences into [[VIP]] data
+- Privately digitize [[In-person cryptography]] experiences into [[VIP]] data
 
 > [[Data guilds]] (July '23 to present)
 

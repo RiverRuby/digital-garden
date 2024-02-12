@@ -4,7 +4,7 @@ This a curated list of projects I no longer work on that I am proud of and/or di
 
 > **April '23 to July '23**: [[ZuStamps]]
 - Funded by [[0xPARC]], led by me and collaborated with Rachel & Althea
-- Part of a long line of [[in-person]] projects I have done
+- Part of a long line of [[In-person cryptography]] projects I have done
 - First deployment of signature-producing NFC chips for ZK applications
 - Featured on [[Vitalik]]'s blog [here](https://vitalik.eth.limo/general/2023/06/09/three_transitions.html#:~:text=But%20the%20Zupass%20system%20also%20began%20to%20have%20other%20apps%20built%20on%20top)
 
