@@ -64,27 +64,29 @@ This is a fairly complete record of my technical projects that are relevant to c
   - ECDSA proving was way too slow for this to be useful/fun, I was laser focused on improving that in later projects
 
 ## 2021
-- (**09/20 to 06/21**) Image model research
+- (**09/20 to 06/21**) Adversarial learning & image model research
 	- Researcher in Madry Lab, initially investigating adversarial learning as an ML application of my cryptography/security interests
-	- Shifted to investigating sample complexity of OOD performance for SoTA ImageNet models
+	- Researched effect of "hidden augmentations" to learning models on ImageNet performance compared to actual architectural differences
+	- Researched sample complexity of OOD performance for SoTA ImageNet models, as a follow-up to ["Do Adversarially Robust ImageNet Models Transfer Better?"](https://arxiv.org/pdf/2007.08489.pdf)
+	- Got sniped or had inconclusive results on all explorations 😅
 
 ## 2020
-2020 was a year of creative self-exploration. Lifelong interests in music, fashion, and decor intensified this year as I figured out more about what made me Vivek. No significant technical projects.
+2020 was a year of creative self-exploration. Lifelong interests in music, fashion, and decor intensified this year as I figured out more about what made me Vivek. No significant technical projects, except for aforementioned image model research.
 
 ## 2019 and before
 - (**12/18 to 04/19**) Cryptography Quant Research
 	- Job at a (now defunct, lol) crypto hedge fund called Virgil Capital
 	- Researched underlying cryptoeconomics of prominent DeFi platforms like MakerDAO and Compound to develop trading strategies
 	
-- **(01/17 to 08/18)** [Authenticated data structures research](https://eprint.iacr.org/2018/721)
+- **(01/17 to 08/18)** [Authenticated data structures research](https://eprint.iacr.org/2018/721) with MIT PRIMES
 	- Member of Devadas Lab at MIT, advised by Alin Tomescu
 	- Researched and developed efficient append-only authenticated dictionaries, published in [ACM CCS '19](https://dl.acm.org/doi/10.1145/3319535.3345652)
 	- Applications to certificate authorities and public-key directories
 	- Clever combination of KZG polynomial commitments and binary tree structures
 	
-- (**01/16 to 12/16**) [Consensus research](https://math.mit.edu/research/highschool/primes/materials/2016/Bhupatiraju-Kuszmaul-Vale.pdf)
+- (**01/16 to 12/16**) [Consensus research](https://math.mit.edu/research/highschool/primes/materials/2016/Bhupatiraju-Kuszmaul-Vale.pdf) with MIT PRIMES
 	- Member of Devadas Lab at MIT, advised by Albert Kwon and Ling Ren
 	- Investigated the viability of distributed consensus using a Proof of Space protocol that merged [graph pebbling](https://en.wikipedia.org/wiki/Graph_pebblinghttps://en.wikipedia.org/wiki/Graph_pebbling) with [merkle trees](https://en.wikipedia.org/wiki/Merkle_tree)
 	- Alternative to expensive Proof of Work protocols used in products like Bitcoin
 
-I found out about PRIMES (and math, and CS, and MIT, and basically everything on this blog) through my older  brother [[Surya]], who was in the first cohort back in 2011 and did abstract algebra research!
+I found out about MIT PRIMES (and math, and CS, and MIT, and basically everything on this blog) through my older brother [[Surya]], who was in the very first cohort back in 2011 and did abstract algebra research!

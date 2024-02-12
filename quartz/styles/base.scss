@@ -10,6 +10,11 @@ html {
   width: 100vw;
 }
 
+body {
+  scrollbar-width: thin;
+  scrollbar-color: var(--light) transparent;
+}
+
 body,
 section {
   margin: 0;
@@ -138,6 +143,7 @@ a {
       flex-direction: column;
       gap: 2rem;
       top: 0;
+      padding: 0 0.5rem 0 3.5rem;
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
@@ -152,19 +158,19 @@ a {
     }
 
     & .sidebar.left {
-      padding: 0 4rem;
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
+        padding: 0;
         gap: 0;
         align-items: center;
       }
     }
 
     & .sidebar.right {
-      padding: 0 1rem 0 4rem;
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       & > * {
         @media all and (max-width: $fullPageWidth) {
+          padding: 0;
           flex: 1;
         }
       }

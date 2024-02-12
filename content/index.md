@@ -1,9 +1,9 @@
 ---
-title: Welcome!
+title: viv's wiki
 ---
 Hi there, I'm Vivek! This [personal wiki](https://en.wikipedia.org/wiki/Personal_wiki) contains my thoughts on technology. I will primarily be exploring **cryptography research** ([[CG]]), but I will also write about **autoworlds** ([[AW]]), **artificial intelligence** ([[AI]]), and other technical intrigues! Here is a collection of past projects for a taste of my interests: [[Selected past projects]]
 
-All writing here is a work-in-progress, and very open to feedback! There are many pieces that are incomplete or half-baked -- I get distracted easily and hop around many pages when I write. If you want to discuss something further, suggest a correction, or suggest a topic to write about, please email me@vivs.wiki! I also go by [vivboop](https://twitter.com/viv_boop) or [[River Ruby]] on other parts of the web.
+All writing here is a work-in-progress, and very open to feedback! There are many pieces that are incomplete or half-baked -- I get distracted easily and hop around many pages when I write. If you want to discuss something further, suggest a correction, or suggest a topic to write about, please email me@vivs.wiki or DM me on [Twitter](https://twitter.com/viv_boop)! I also go by [vivboop](https://t.me/vivboop) or [[River Ruby]] on other parts of the web.
 
 I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd and easily excitable. My favorite activity is to listen to other nerds nerd out about random shit they love. Doesn't have to be anything I know about, I just feed off of genuine passion. If that resonates, reach out! Let's be nerds together.
 
@@ -52,7 +52,7 @@ All of these ideas are works-in-progress; I will properly publish + promote them
 
 ## Past work
 
-Compilations of various projects that have shaped the technologist I am. It's a mix of applied research, e2e products, and academic work.
+Compilations of various projects that have shaped the technologist I currently am. It's a mix of applied research, e2e products, and academic work.
 
 - [[Selected past projects]]
 - [[All past projects]]

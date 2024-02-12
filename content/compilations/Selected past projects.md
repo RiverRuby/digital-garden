@@ -1,9 +1,10 @@
-This a curated list of past projects that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
+This a curated list of projects I no longer work on that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
 
 ### 2023
 
 > **April '23 to July '23**: [[ZuStamps]]
 - Funded by [[0xPARC]], led by me and collaborated with Rachel & Althea
+- Part of a long line of [[in-person]] projects I have done
 - First deployment of signature-producing NFC chips for ZK applications
 - Featured on [[Vitalik]]'s blog [here](https://vitalik.eth.limo/general/2023/06/09/three_transitions.html#:~:text=But%20the%20Zupass%20system%20also%20began%20to%20have%20other%20apps%20built%20on%20top)
 
@@ -31,9 +32,10 @@ This a curated list of past projects that I am proud of and/or display my resear
 
 ### 2021 and before
 
->  **September '20 to June '21**: Image model research
-- Researcher in Madry Lab, initially investigating adversarial learning as an ML application of my cryptography/security interests
-- Shifted to investigating sample complexity of OOD performance for SoTA ImageNet models
+>  **September '20 to June '21**: Adversarial learning & image model research
+- Researcher in [Madry Lab](https://madrylab.mit.edu/), initially investigating adversarial learning as an ML application of my cryptography/security interests
+- Researched effect of "hidden augmentations" to learning models on ImageNet performance compared to actual architectural differences
+- Researched sample complexity of OOD performance for SoTA ImageNet models, as a follow-up to ["Do Adversarially Robust ImageNet Models Transfer Better?"](https://arxiv.org/pdf/2007.08489.pdf)
 
  > **December '18 to April '19**: Blockchain quantitative research
 - Job at a (now defunct, lol) crypto hedge fund called Virgil Capital

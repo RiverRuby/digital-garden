@@ -1,0 +1,27 @@
+/*!
+ * Modified from GitHub's Dark Dimmed theme, licensed under the MIT License
+ * Copyright (c) 2018 GitHub Inc.
+ * https://github.com/primer/primitives/blob/main/LICENSE
+ */
+main .pagination-loader-container {
+  background-image: url(https://github.com/images/modules/pulls/progressive-disclosure-line-dark.svg);
+}
+
+.gsc-reactions {
+  margin-top: 1rem;
+}
+.gsc-reactions-count {
+  display: none;
+}
+.gsc-timeline {
+  flex-direction: column-reverse;
+}
+.gsc-left-header > .color-text-secondary {
+  display: none;
+}
+.gsc-homepage-bg {
+  background-color: #15202b;
+}
+main .gsc-loading-image {
+  background-image: url(https://github.githubassets.com/images/mona-loading-dimmed.gif);
+}
