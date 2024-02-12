@@ -26,6 +26,24 @@ function Comments({ displayClass }: QuartzComponentProps) {
         </svg>
       </button>
       <div id="comments-content">
+        <script
+          src="https://giscus.app/client.js"
+          data-repo="RiverRuby/wiki"
+          data-repo-id="R_kgDOK_e4iA"
+          data-category="Announcements"
+          data-category-id="DIC_kwDOK_e4iM4CdJGp"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="https://vivs-wiki-giscus-css.s3.us-east-2.amazonaws.com/giscus-dark.css"
+          data-lang="en"
+          crossorigin="anonymous"
+          async
+        ></script>
+      </div>
+      {/* <div id="comments-content">
         <div id="comments-content-dark">
           <script
             src="https://giscus.app/client.js"
@@ -62,7 +80,7 @@ function Comments({ displayClass }: QuartzComponentProps) {
             async
           ></script>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }
