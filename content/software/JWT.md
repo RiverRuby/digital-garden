@@ -1,1 +1,0 @@
-Signed data on logins, used in most large sign-in platforms! This is [[VIP]]! LFG!! 

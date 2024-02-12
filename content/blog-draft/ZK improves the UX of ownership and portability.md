@@ -3,7 +3,7 @@
 This is part of a longer series called “[[CG]] as [[offensive]] technology”, an exploration of how we can use cryptography to **enable new affordances for users** instead of just protecting against bad outcomes. Defense for offense.
 
 ## Why do these properties matter?
-[[Ownership]] and portability (equivalent to [[VIP]]) are some of the key ideas and unlocks discussed around web3/crypto. These are genuinely new affordances of this field, and are areas where our modern technological landscape is severely lacking.
+[[ownership]] and portability (equivalent to [[VIP]]) are some of the key ideas and unlocks discussed around web3/crypto. These are genuinely new affordances of this field, and are areas where our modern technological landscape is severely lacking.
 
 Ownership of our data and identity is almost nonexistent in the modern paradigms of data selling and massive ad-based revenue models for the internet. Upon signing up for a platform, every single piece of our data is kept in a closed server in a closed platform. Everything except our password is known to the service, and they are usually given full access to its powers and knowledge. (Even with our password they store a hash, so they basically know everything).
 

@@ -186,7 +186,7 @@ export function renderPage(
   )
 
   const RightComponent = (
-    <div class="right sidebar">
+    <div class="right sidebar" style={{ overflowY: "auto", maxHeight: "80vh" }}>
       {right.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}

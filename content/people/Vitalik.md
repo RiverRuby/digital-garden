@@ -1,1 +1,0 @@
-[[Very cracked]]. Vitalik is a major inspiration. Will write much more soon. Also his name sounds like my (government) name, nice.

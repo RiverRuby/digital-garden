@@ -141,7 +141,6 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -153,6 +152,7 @@ a {
     }
 
     & .sidebar.left {
+      padding: 0 4rem;
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
@@ -161,6 +161,7 @@ a {
     }
 
     & .sidebar.right {
+      padding: 0 1rem 0 4rem;
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       & > * {
         @media all and (max-width: $fullPageWidth) {
@@ -471,10 +472,6 @@ ol.overflow {
   // clearfix
   content: "";
   clear: both;
-
-  & > li:last-of-type {
-    margin-bottom: 30px;
-  }
 
   &:after {
     pointer-events: none;

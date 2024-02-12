@@ -1,6 +1,4 @@
-🚧 This is a work-in-progress 🚧
-
-A combined signature, anon sign-in, and pseudonym protocol that is newly enabled by binary-field systems like [[Binius]]. This reuses the primary components of [[Semaphore]], the first useful consumer ZK tool, but replaces the need for Poseidon with battle-tested and beloved SHA-256. The entire proving process is also done via SHA-256, making this highly client-friendly.
+A combined signature, anon sign-in, and pseudonym protocol that is newly enabled by binary-field systems like [[Binius]]. This reuses the primary components of [[Semaphore]], the first useful consumer ZK tool, but replaces the need for Poseidon with battle-tested and universally beloved SHA-256. The entire proving process is also done via SHA-256, making this highly client-friendly.
 
 ## Simplified API
 
