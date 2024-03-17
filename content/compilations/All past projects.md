@@ -1,6 +1,16 @@
+---
+tags:
+  - projects
+---
+
 This is a fairly complete record of my technical projects that are relevant to current lines of work.
 
 ## 2023
+- (**08/23 to 01/24**) [[Jubmoji]] 
+	- Funded by [[PSE]], project & design led by Rachel, technology led by me
+	- 2023 activation at Zu/Devconnect using NFC cards that produce unique [[Baby jubjub]] [[signatures]] upon tap
+	- Privately digitize [[In-person cryptography]] experiences into [[VIP]] data
+
 - (**06/23 to 08/23**) [[Project Vinyl]]
 	- Independent exploration into continuations of NFC projects
 	- Ideas were converted into the [[Jubmoji grant proposal]] [[PSE]] grant proposal!

@@ -4,26 +4,26 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 main {
-  --color-btn-text: #000000;
-  --color-btn-border: #000000;
-  --color-btn-hover-border: #000000;
-  --color-btn-active-border: #000000;
-  --color-btn-primary-text: #000000;
-  --color-btn-primary-border: #000000;
-  --color-btn-primary-hover-border: #000000;
-  --color-btn-primary-disabled-text: #000000;
-  --color-btn-primary-disabled-border: #000000;
-  --color-segmented-control-button-selected-border: #000000;
-  --color-fg-default: #000000;
-  --color-fg-muted: #000000;
-  --color-fg-subtle: #000000;
-  --color-border-default: #000000;
-  --color-border-muted: #000000;
-  --color-accent-fg: #000000;
-  --color-accent-emphasis: #000000;
-  --color-success-fg: #000000;
-  --color-attention-fg: #000000;
-  --color-danger-fg: #000000;
+  --color-btn-text: #2edaff80;
+  --color-btn-border: #2edaff80;
+  --color-btn-hover-border: #2edaff80;
+  --color-btn-active-border: #2edaff80;
+  --color-btn-primary-text: #2edaff80;
+  --color-btn-primary-border: #2edaff80;
+  --color-btn-primary-hover-border: #2edaff80;
+  --color-btn-primary-disabled-text: #2edaff80;
+  --color-btn-primary-disabled-border: #2edaff80;
+  --color-segmented-control-button-selected-border: #2edaff80;
+  --color-fg-default: #2edaff80;
+  --color-fg-muted: #2edaff80;
+  --color-fg-subtle: #2edaff80;
+  --color-border-default: #2edaff80;
+  --color-border-muted: #2edaff80;
+  --color-accent-fg: #2edaff80;
+  --color-accent-emphasis: #2edaff80;
+  --color-success-fg: #2edaff80;
+  --color-attention-fg: #2edaff80;
+  --color-danger-fg: #2edaff80;
 }
 main .pagination-loader-container {
   background-image: url(https://github.com/images/modules/pulls/progressive-disclosure-line-dark.svg);

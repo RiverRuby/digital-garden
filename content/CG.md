@@ -25,15 +25,13 @@ It's also super math heavy, and I fucking love math. It's the purest art form hu
 - This website signs its data with SXG!
 - I want to make proofs about what I say on other parts of the web!
 - And then let's do it for your website (and Medium, Substack, Mirror, and all major media sites...once we lobby them all to also add SXG!)
-	  
+
 > [[SHAmaphore]]
 - SHA256[^a] + [[Semaphore]] for 3 gadgets: `HashSignature`, `AnonSignIn`, `Plume`
 - Quantum resistant, using standard hash functions, recursion friendly, hell yes
 - Good bye Poseidon!!
 
-> [[DKIM-BIN]]
-- Current UX of [[zk-email]] is too poor to enable any useful applications building on private emails
-- Create a more substantial platform that automatically & privately parses incoming emails to extract useful ZK proofs
+I have other project proposals that aren't yet public. DM me on Twitter to learn more or collaborate!
 
 
 [^a]: I am a SHA-256 lover over Keccak or BLAKE or Grostl. fight me

@@ -1,6 +1,17 @@
+---
+tags:
+  - projects
+---
+
 This a curated list of projects I no longer work on that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
 
 ### 2023
+
+> August '23 to January '24: [[Jubmoji]]
+
+- Funded by [[PSE]], project & design led by Rachel, technology led by me
+- 2023 activation at Zu/Devconnect using NFC cards that produce unique [[Baby jubjub]] [[signatures]] upon tap
+- Privately digitize [[In-person cryptography]] experiences into [[VIP]] data
 
 > **April '23 to July '23**: [[ZuStamps]]
 - Funded by [[0xPARC]], led by me and collaborated with Rachel & Althea

@@ -1,6 +1,5 @@
 ---
-tags:
-  - projects
+tags: []
 ---
 
 The first project I worked in applied ZK, hosted at https://heyanon.xyz.

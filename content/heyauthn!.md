@@ -1,6 +1,5 @@
 ---
-tags:
-  - projects
+tags: []
 ---
 
 This is one of my favorite projects so far! Repo at https://github.com/RiverRuby/heyauthn

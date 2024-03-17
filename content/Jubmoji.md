@@ -1,6 +1,5 @@
 ---
-tags:
-  - projects
+tags: []
 ---
 
 Hosted at https://jubmoji.quest. My jubmoji is [[🔺]]!
