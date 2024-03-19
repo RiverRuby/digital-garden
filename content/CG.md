@@ -31,7 +31,7 @@ It's also super math heavy, and I fucking love math. It's the purest art form hu
 - Quantum resistant, using standard hash functions, recursion friendly, hell yes
 - Good bye Poseidon!!
 
-I have other project proposals that aren't yet public. DM me on Twitter to learn more or collaborate!
+I have many, many other project proposals are either not ready to be public, or too good to give away for free. DM me on [Twitter](https://twitter.com/viv_boop) to jam and collaborate!
 
 
 [^a]: I am a SHA-256 lover over Keccak or BLAKE or Grostl. fight me
