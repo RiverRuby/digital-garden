@@ -37,7 +37,7 @@ function Comments({ displayClass }: QuartzComponentProps) {
           data-reactions-enabled="1"
           data-emit-metadata="0"
           data-input-position="bottom"
-          data-theme="https://vivs-wiki-giscus-css.s3.us-east-2.amazonaws.com/giscus-dark.css"
+          data-theme="https://vivs-wiki-giscus-css.s3.us-east-2.amazonaws.com/giscus-light.css"
           data-lang="en"
           crossorigin="anonymous"
           async

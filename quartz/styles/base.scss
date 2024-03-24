@@ -69,6 +69,11 @@ a {
     color: var(--tertiary) !important;
   }
 
+  &.external {
+    font-weight: normal;
+    text-decoration: underline;
+  }
+
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
