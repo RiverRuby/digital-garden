@@ -5,7 +5,7 @@ tags:
 ---
 In my mind, **cryptography** or **CG**[^b] is a discipline combining ideas from math and CS to **make stuff hard to break**. In this framing, it is inherently a [[defensive]] technology.
 
-I've been lucky enough to work in cryptography since early 2016, working on an early PoW alternative called Proof-of-Space as a part of a research program called [MIT Primes](https://math.mit.edu/research/highschool/primes/index.php). The scheme involved Merkle queries on a large **hard-to-pebble graph** to prove that you'd stored a significant portion of the graph on your hard drive.
+I've been lucky enough to work in cryptography since early 2016, working on an early PoW alternative called Proof-of-Space as a part of a research program called [MIT Primes](https://math.mit.edu/research/highschool/primes/index.php). The scheme involved [Merkle queries on a large **hard-to-pebble graph**](https://math.mit.edu/research/highschool/primes/materials/2016/Bhupatiraju-Kuszmaul-Vale.pdf) to prove that you'd stored a significant portion of the graph on your hard drive.
 
 I now work primarily on [[ZK]] tech, supported by the [[PSE]] (Privacy & Scaling Explorations) team at the Ethereum Foundation, exploring the intersection of NFC and ZK as a way to bring private data [[ownership]] to regular people.
 
