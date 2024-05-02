@@ -10,9 +10,8 @@ export default (() => {
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = `https://vivs.wiki/static/icon.png`
+    const iconPath = `https://vivs.wiki/static/icon1.png`
     const ogImagePath = `https://vivs.wiki/static/og-image.png`
 
     return (
