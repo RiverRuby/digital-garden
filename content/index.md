@@ -9,9 +9,10 @@ I am on a mission to never lose touch with my [[inner child]]. I am a huge nerd 
 
 ## Selected blog posts
 
-- [[Denver ZK Quests]]
 - [[Data guilds]]
-- [[Jubmoji grant proposal]]
+- [[CG]] or Why I like cryptography
+- [[SXG]] or Signed web pages
+- [[Denver ZK Quests]]
 - [[ZuStamps]]
 - [[efficient-ecdsa]]
 - [[In-person heyanon]]

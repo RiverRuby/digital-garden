@@ -5,6 +5,11 @@ tags:
 ---
 As of March 2024. View a curated selection of past technical projects here: [[Selected past projects]]
 
+> [Cursive](https://cursive.team) (February '24 to present)
+
+- Working on making signed data more powerful, focused on data ownership and authenticity
+- Focused on tangibility (NFC cards), beautifully designed apps, and accessibility
+
 > [[Denver ZK Quests]] and [[jubsignal]] (December '23 to present)
 
 - Funded by [[PSE]]

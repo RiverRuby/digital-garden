@@ -2,6 +2,9 @@
 tags:
   - software
 ---
+> This blog covers Semaphore v3, which I used in a number of projects. The Semaphore team independently implemented many of the improvements I discuss here for their v4 so this is slightly out of date! Great minds think alike? You can learn more about their decisions here! https://github.com/semaphore-protocol/research
+> 
+> I think this overview is still educational, but I will publish an updated version later.
 
 Semaphore is a ZK tool [invented](https://github.com/barryWhiteHat/semaphore) and built by [[PSE]], hosted at https://semaphore.pse.dev. Semaphore combines many of the simplest and most powerful ZK primitives into a single tool. It is the core tech behind many projects I've worked on, like [[heyanon!]], [[In-person heyanon]], [[heyauthn!]], [Zupass](https://zupass.org), and [Zupoll](https://zupoll.org). 
 
@@ -38,7 +41,7 @@ proof SemaphoreHashSignature:
 		)
 ```
 
-What is Poseidon? It is a[ZK-friendly hash function](https://www.poseidon-hash.info/). This means it is less computationally expensive to prove statements about Poseidon hashes than about standard hash functions. I think we will do away with this notion of "ZK-friendly hash functions" in 2024 and onwards with innovations like [[Binius]]. But Poseidon is the best we've had so far, and current Semaphore uses it.
+What is Poseidon? It is a [ZK-friendly hash function](https://www.poseidon-hash.info/). This means it is less computationally expensive to prove statements about Poseidon hashes than about standard hash functions. I think we will do away with this notion of "ZK-friendly hash functions" in 2024 and onwards with innovations like [[Binius]]. But Poseidon is the best we've had so far, and current Semaphore uses it.
 
 Despite using Semaphore in many different projects, I'm not quite sure what this intermediate `secret` accomplishes. I think there's some connections to RLN, which only uses the identityNullifier. But I am unsure, and no Semaphore doc I've found explains this. I also am not sure why we need an `identityTrapdoor`, and I also have found no docs that explain this.
 

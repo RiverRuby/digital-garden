@@ -1,5 +1,5 @@
 ---
-title: Signed exchange (SXG)
+title: Signed web pages with SXG
 ---
 > Disclaimer: this is very different from Intel SGX or other TEE (trusted execution environments) methods! I discuss my thoughts on that here: [[Trusted execution]]
 

@@ -8,7 +8,6 @@ This a curated list of projects I no longer work on that I am proud of and/or di
 ### 2023
 
 > August '23 to January '24: [[Jubmoji]]
-
 - Funded by [[PSE]], project & design led by Rachel, technology led by me
 - 2023 activation at Zu/Devconnect using NFC cards that produce unique [[Baby jubjub]] [[signatures]] upon tap
 - Privately digitize [[In-person cryptography]] experiences into [[VIP]] data
