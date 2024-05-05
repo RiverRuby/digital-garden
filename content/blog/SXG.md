@@ -70,4 +70,4 @@ It them proceeds to list the set of request headers that is not removed from the
 Having signed webpages would enable a lot more information to be [[VIP]], which can enable interesting blockchain and ZK apps. The main blocker to this is enabling SXG in more places. If you are interested in expanding SXG across the internet, or want to dig deep into how it works to see how it deals with public/private information, let's collaborate!
 
 
-[^1]: Well at least, I am trying to. I think it's broken right now, as of 01/14/24. I am getting Cloudflare support's help to fix this right now!
+[^1]: Well at least, I am trying to. I think it's broken right now, as of 04/15/24. I am getting Cloudflare support's help to fix this right now!
