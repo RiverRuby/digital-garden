@@ -1,9 +1,7 @@
 ---
 title: Signed web pages with SXG
 ---
-> Disclaimer: this is very different from Intel SGX or other TEE (trusted execution environments) methods! I discuss my thoughts on that here: [[Trusted execution]]
-
-[Signed exchanges](https://wicg.github.io/webpackage/draft-yasskin-http-origin-signed-responses.html), or SXG for short, is one of the most promising methods for getting interesting [[signatures]] from the web. From Google's introductory [article](https://web.dev/articles/signed-exchanges):
+[Signed exchanges](https://wicg.github.io/webpackage/draft-yasskin-http-origin-signed-responses.html), or SXG[^2] for short, is one of the most promising methods for getting interesting [[signatures]] from the web. From Google's introductory [article](https://web.dev/articles/signed-exchanges):
 > As its primary use case, SXG uses a cache to prefetch and serve content that has been cryptographically signed by the origin. This helps speed cross origin navigations from referrer sites while also ensuring that pages remain unaltered and properly attributed to their origin. Any potentially identifying information is hidden until after the user navigates to a site thereby protecting the user’s privacy.
 
 It is primarily built for speeding up & securing pre-fetching of data by a search browser. But in this article, we will explore its potential use cases with [[ZK]] cryptography and blockchain apps.
@@ -54,20 +52,20 @@ However, the widest reach we can get is likely by lobbying the [Internet Archive
 ### Private information
 I'm not 100% sure how SXG handles private information. I would love more help in determining this. Any related caveats need to be taken into account when designing proofs and applications on top of SXG data.
 
-From Claude on the prompt "Can signed exchanges be used on pages with private data?", followed by another prompt to be more succinct:
-
->Signed exchanges can be used with pages containing private data, but care must be taken. The main challenges are privacy concerns around publicly caching sensitive user data, and the inability to personalize pre-cached content. A common approach is to use signed exchanges for static page components, while fetching and rendering private user data client-side. Cookie-based authentication can enable "private" signed exchanges, but reduces performance gains. Ultimately, there is a tradeoff between performance benefits and privacy/personalization limitations that must be evaluated based on the specific use case and data sensitivity.
-
 From Google Search [docs](https://developers.google.com/search/docs/appearance/signed-exchange): 
 > [Signed exchanges](https://web.dev/signed-exchanges/) (SXG) allow Google Search to prefetch your content while preserving the user's privacy. In practice, this means that both AMP and non-AMP results shown on Google Search may prefetch a few key resources (such as HTML, JavaScript, CSS, images, or fonts) in a privacy-preserving manner, if the associated website supports SXG.
 
 From Cloudflare's `Signed exchanges caveats` [here](https://developers.cloudflare.com/speed/optimization/other/signed-exchanges/signed-exchanges-caveats/):
 > Signed exchanges remove cookies and headers from HTTP requests, which can create problems with dynamic or personalized content. This is intentional since signed exchanges can be distributed to multiple browsers. Therefore, packaging any personalized or dynamic content into a signed exchange could be a security risk.
+> 
+> (They proceed to list the set of request headers that is not removed from the HTTP request, and a list of request headers in which a signed exchange will not be generated)
 
-It them proceeds to list the set of request headers that is not removed from the HTTP request, and a list of request headers in which a signed exchange will not be generated.
+From Claude on the prompt "Can signed exchanges be used on pages with private data?", followed by another prompt to be more succinct:
+>Signed exchanges can be used with pages containing private data, but care must be taken. The main challenges are privacy concerns around publicly caching sensitive user data, and the inability to personalize pre-cached content. A common approach is to use signed exchanges for static page components, while fetching and rendering private user data client-side. Cookie-based authentication can enable "private" signed exchanges, but reduces performance gains. Ultimately, there is a tradeoff between performance benefits and privacy/personalization limitations that must be evaluated based on the specific use case and data sensitivity.
 
 ## Conclusions
 Having signed webpages would enable a lot more information to be [[VIP]], which can enable interesting blockchain and ZK apps. The main blocker to this is enabling SXG in more places. If you are interested in expanding SXG across the internet, or want to dig deep into how it works to see how it deals with public/private information, let's collaborate!
 
 
-[^1]: Well at least, I am trying to. I think it's broken right now, as of 04/15/24. I am getting Cloudflare support's help to fix this right now!`
+[^1]: Well at least, I am trying to. I think it's broken right now, as of 04/15/24. I am getting Cloudflare support's help to fix this right now!
+[^2]: This is very different from Intel SGX or other TEE (trusted execution environments) methods! I discuss my thoughts on that here: [[Trusted execution]]
