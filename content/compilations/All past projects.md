@@ -5,6 +5,20 @@ tags:
 
 This is a fairly complete record of my technical projects that are relevant to current lines of work.
 
+## 2024
+- **(03/24 to 04/24)** [ZK Summit NFC app](https://github.com/cursive-team/zk-summit)
+	- Tech showcase of cutting edge cryptography for all 500 attendees of ZKSummit11 in Athens
+	- Made NFC cards for all attendees and talks to verifiably prove meeting and attendance
+	- Allowed attendees to perform a private set intersection with each other to see common contacts/talks using a combination of [2PC+FHE](https://github.com/cursive-team/2P-PSI)
+	- Allowed users to use **Nova folding proofs** to get a succinct summary of their entire conference experience
+	- Allowed users to make ZKP proofs of deep engagement (meeting speakers, attending talks) to share on Twitter
+
+- **(01/24 to 03/24)** [[Denver ZK Quests]]
+	- Launched an NFC activation for ETHDenver attendees by chipping all entrance badges
+	- Experience focused on loyalty/engagement -- rewarding participants who could make ZKPs of deeper engagement with certain brands or events with better prizes 
+	- ZKPs were wrapped as "quests" that attendees could finish
+	- Gave out 12,000 badges for 50,000 total taps and 3,000 quests finished
+
 ## 2023
 - (**08/23 to 01/24**) [[Jubmoji]] 
 	- Funded by [[PSE]], project & design led by Rachel, technology led by me
