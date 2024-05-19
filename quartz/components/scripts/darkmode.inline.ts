@@ -1,4 +1,4 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+const userPref = "dark"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
@@ -28,16 +28,8 @@ document.addEventListener("nav", () => {
   const toggleSwitch = document.querySelector("#darkmode-toggle") as HTMLInputElement
   toggleSwitch.removeEventListener("change", switchTheme)
   toggleSwitch.addEventListener("change", switchTheme)
-  swap(currentTheme === "dark" ? "dark" : "light")
+  swap(currentTheme === "light" ? "light" : "dark")
   if (currentTheme === "dark") {
     toggleSwitch.checked = true
   }
-
-  // Listen for changes in prefers-color-scheme
-  const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")
-  colorSchemeMediaQuery.addEventListener("change", (e) => {
-    const newTheme = e.matches ? "dark" : "light"
-    swap(newTheme)
-    toggleSwitch.checked = e.matches
-  })
 })
