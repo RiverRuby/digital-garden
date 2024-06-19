@@ -14,21 +14,21 @@ One basic model for how this would work is: users sign up for a social platform 
 
 ## Why is this promising?
 
-### **Reason 1: Privacy.**
+### Privacy
 
 Only anonymized, aggregate information about users’ interests and characteristics flows to advertisers.
 
-### **Reason 2: Value sharing.**
+### Value sharing
 
 It’s possible to just split the payout evenly among all users in the guild (or split it proportionally according to how many ads each person has viewed or clicked on), but the guild structure provides a natural way to pool funds from advertising payouts into some public or club good relevant to the group – for instance, a community insurance pool. Amounts of money that would be relatively insignificant if paid out to individuals can go farther if a group can use them to fund collective purchases that would otherwise have been difficult to coordinate.
 
 The administration of these pools of ad dollars can be composed with other governance systems as well, like DAOs or ZK voting.
 
-### **Reason 3: Permissionlessness.**
+### Permissionlessness
 
 If you don’t like how a social platform handles your data, it’s difficult to unilaterally leave. But if you don’t like how a guild handles your data, your network membership is decoupled from the data processing, so you can just switch. Users can preferentially select guilds that give them governance rights, guarantee high degrees of privacy, and spend funds on goods of use to them.
 
-## _Design choices and tradeoffs_
+# Design choices and tradeoffs
 
 ### How homogenous the guilds should be
 
@@ -58,6 +58,6 @@ It’ll be a hard sell to integrate data guilds into a large legacy platform; em
 
 There are also applications beyond advertising. One is market research – prove facts about your general demographics without releasing any personal information. Another is pharmaceuticals, where it can be valuable for regulatory reasons to amalgamate data for small, highly targeted groups, like people with rare diseases, while keeping individual participants anonymous.
 
-## Implementation
+# Implementation
 
-We'd be excited to give grants to folks exploring real applications of ZK for data privacy and to help provide resources on learning ZK programming and the most relevant tools needed to build this idea out! We can give a token grant for any attempt and a large grant for any success or prototype with continued development. If you're interested, we’re fielding proposals for applications of this technology! Reach out to me@vivs.wiki or aayushg@mit.edu.
+We'd be excited to give grants to folks exploring real applications of ZK for data privacy and to help provide resources on learning ZK programming and the most relevant tools needed to build this idea out! We can give a token grant for any attempt and a large grant for any success or prototype with continued development. If you're interested, we’re fielding proposals for applications of this technology! Reach out to vivek@cursive.team, aayushg@mit.edu, and lilyjordan42@gmail.com with any questions!
