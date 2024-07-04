@@ -2,7 +2,6 @@
 tags:
   - projects
 ---
-
 This a curated list of projects I no longer work on that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
 
 ### 2024

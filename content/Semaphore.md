@@ -15,7 +15,7 @@ For any folks getting into ZK, non-technical or technical, understanding Semapho
 ## Gadgets
 This section will alternate between Semaphore terminology, and personal terminology that I think is less confusing and more concise. The diagram below most succinctly explains all Semaphore terminology, which you should hopefully understand by the end of this post! I was first shown this diagram by [cedoor](https://github.com/cedoor), one of the lead devs of Semaphore, at DevConnect Amsterdam in April 2022. Thank you to him for first explaining Semaphore to me!
 
-![scheme.png](https://github.com/semaphore-protocol/semaphore/blob/main/packages/circuits/scheme.png?raw=true)
+![scheme.png](https://raw.githubusercontent.com/semaphore-protocol/semaphore/8cf04ddb98e6840ad4643b73edffeb557c66118c/packages/circuits/scheme.png)
 
 
 I am in favor of breaking Semaphore up into 3 gadgets, which can be linked easily but also used separately in different apps that don't need all of Semaphore. I re-use this API and set the hash function to be SHA-256 in my proposal for [[SHAmaphore]]. I also use proof notation introduced in my short [[zkSNARKs]] writeup.
