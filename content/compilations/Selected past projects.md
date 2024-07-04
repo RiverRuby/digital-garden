@@ -5,6 +5,18 @@ tags:
 
 This a curated list of projects I no longer work on that I am proud of and/or display my research and product interests. A less curated but more complete list can be found here: [[All past projects]]
 
+### 2024
+> March '24 to June '24: [Signature Singularity Residency](https://sigsing.com) Organizer
+- Alongside [[yush]], organized a residency bringing teams taking **useful signed data** and **wrapping it in ZK proofs** for succinctness (on-chain use cases), ownership (raw signature never revealed to server), and selective disclosure (only revealing relevant info)
+- Supported primarily by [PSE](https://pse.dev)
+- Demo day here: https://demo.sigsing.com, and full list of projects here: https://lu.ma/k4t26qch
+
+> January '24 to March '24:  [[Denver ZK Quests]]
+- Launched an NFC activation for ETHDenver attendees by chipping all entrance badges
+- Experience focused on loyalty/engagement -- rewarding participants who could make ZKPs of deeper engagement with certain brands or events with better prizes 
+- ZKPs were wrapped as "quests" that attendees could finish
+- Gave out 12,000 badges for 50,000 total taps and 3,000 quests finished
+
 ### 2023
 
 > August '23 to January '24: [[Jubmoji]]

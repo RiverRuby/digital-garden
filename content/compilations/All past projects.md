@@ -6,6 +6,11 @@ tags:
 This is a fairly complete record of my technical projects that are relevant to current lines of work.
 
 ## 2024
+- **(03/24 to 06/24)** [Signature Singularity Residency](https://sigsing.com) Organizer
+	- Alongside [[yush]], organized a residency bringing teams taking **useful signed data** and **wrapping it in ZK proofs** for succinctness (on-chain use cases), ownership (raw signature never revealed to server), and selective disclosure (only revealing relevant info)
+	- Supported primarily by [PSE](https://pse.dev)
+	- Demo day here: https://demo.sigsing.com, and full list of projects here: https://lu.ma/k4t26qch
+
 - **(03/24 to 04/24)** [ZK Summit NFC app](https://github.com/cursive-team/zk-summit)
 	- Tech showcase of cutting edge cryptography for all 500 attendees of ZKSummit11 in Athens
 	- Made NFC cards for all attendees and talks to verifiably prove meeting and attendance
