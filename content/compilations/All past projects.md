@@ -2,7 +2,6 @@
 tags:
   - projects
 ---
-
 This is a fairly complete record of my technical projects that are relevant to current lines of work.
 
 ## 2024

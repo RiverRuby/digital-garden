@@ -1,21 +1,23 @@
 ---
-date: 2024-03-01
+date: 2024-07-01
 tags:
   - projects
 ---
-As of March 2024. View a curated selection of past technical projects here: [[Selected past projects]]
+As of July 2024. View a curated selection of past technical projects here: [[Selected past projects]]
+
+> [Backpocket](https://cursive.team/bp-demo)(March '24 to present)
+
+- Multi-player vault, storing your data and social graph
+- Primarily built around sending/receiving queries on other people's data
+- Built out MVPs using contacts and travel PSI
+- Using MP-FHE built by [Gauss Labs](https://github.com/gausslabs)
+
 
 > [Cursive](https://cursive.team) (February '24 to present)
 
 - Working on making signed data more powerful, focused on data ownership and authenticity
 - Focused on tangibility (NFC cards), beautifully designed apps, and accessibility
-
-> [[Denver ZK Quests]] and [[jubsignal]] (December '23 to present)
-
-- Funded by [[PSE]]
-- 2024 activation at ETHDenver using e2e encrypted [[Baby jubjub]] signatures
-- Uses NFC cards to share an ECDH public key, custody BBJJ private key on local device, and send P2P encrypted [[signatures]] to maintain [[ownership]]
-- 12k chipped badges, 50k total taps, 3k total quests completed
+- Focused on using MPC for discoverability/recommendations across self-sovereign social graphs
 
 
 > [[Data guilds]] (July '23 to present)
@@ -23,3 +25,10 @@ As of March 2024. View a curated selection of past technical projects here: [[Se
 - Joint work with [[yush]] and Lily Jordan
 - Using [[ZK]] to take back data [[ownership]] & ad revenue in a privacy-preserving and public goods-oriented way
 - _Looking for collaborators and aligned funding!_
+
+
+> NFC to digitize in-person interactions (May '23 to present)
+
+- Most recent activation at [ZKSummit](https://www.cursive.team/blog/zk-summit)
+- Using digital signatures from NFC chips (cards, bracelets, rings) to digitize meeting people, attending events, and other in-person reputation
+- Also at [[Denver ZK Quests]], [[Jubmoji grant proposal]], and [[ZuStamps]]
