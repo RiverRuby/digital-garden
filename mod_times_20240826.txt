@@ -1,0 +1,92 @@
+Vitalik.md|2024-08-26
+Baby jubjub.md|2024-02-12
+signatures.md|2024-02-12
+blockchain.md|2024-07-15
+Vivek fanboys ZKP2P.md|2024-08-26
+CMAC chips.md|2024-02-12
+PSE.md|2024-08-08
+heyanon!.md|2024-03-17
+WebAuthn.md|2024-02-12
+music.md|2024-02-12
+FHE.md|2024-02-12
+Org 0xPARC.md|2024-02-12
+Barry WhiteHat.md|2024-08-26
+AW.md|2024-05-07
+VIP.md|2024-05-09
+zk-email.md|2024-02-12
+zkSNARKs.md|2024-02-12
+secp256k1.md|2024-02-12
+Jordi Baylina.md|2024-08-26
+identity.md|2024-02-12
+Trusted execution.md|2024-02-12
+JWT.md|2024-02-12
+Javacards.md|2024-02-12
+Wikipedia.md|2024-02-12
+Binius.md|2024-02-12
+Personae Labs.md|2024-08-08
+Jubmoji.md|2024-03-17
+AA.md|2024-02-13
+decor.md|2024-02-12
+ECDSA chips.md|2024-02-12
+past.md|2024-08-26
+verification key.md|2024-02-12
+defensive.md|2024-02-12
+offensive.md|2024-02-12
+jubmail.md|2024-03-17
+YouTube.md|2024-02-12
+Ludens.md|2024-08-26
+ZKP2P.md|2024-02-12
+River Ruby.md|2024-02-12
+index.md|2024-07-05
+EF.md|2024-02-12
+ownership.md|2024-02-12
+jubsignal.md|2024-03-17
+NFC to digitize in-person interactions.md|2024-07-05
+CG.md|2024-05-02
+zkSNARK.md|2024-05-09
+Surya.md|2024-02-12
+heyauthn!.md|2024-03-17
+yush.md|2024-08-26
+ZK.md|2024-02-12
+TLSNotary.md|2024-07-08
+inner child.md|2024-02-12
+authenticity.md|2024-03-22
+gubsheep.md|2024-08-26
+Semaphore.md|2024-07-03
+open-source.md|2024-02-12
+In-flight projects.md|2024-07-05
+AI.md|2024-02-12
+Take Back Our Data/Interoperability regulation to break Big Tech.md|2024-08-24
+Take Back Our Data/TLSNotary with your social graph.md|2024-08-24
+Take Back Our Data/Notary authorities à la certificate authorities.md|2024-08-24
+Take Back Our Data/Convince Big Tech they get best models if data portable.md|2024-08-24
+Take Back Our Data/index.md|2024-07-18
+Take Back Our Data/Signed web pages (SXG) on the Internet Archive.md|2024-08-24
+Take Back Our Data/VPN that signs web traffic.md|2024-08-26
+Take Back Our Data/Sign all useful information to fight rapidly degrading authenticity.md|2024-08-24
+Take Back Our Data/Email is the best identity wallet.md|2024-08-24
+blog/In-person heyanon.md|2024-01-14
+blog/efficient-ecdsa.md|2024-01-02
+blog/Half server, half client.md|2024-01-02
+blog/Data guilds.md|2024-06-18
+blog/Jubmoji grant proposal.md|2024-01-15
+blog/index.md|2024-02-12
+blog/Project Vinyl.md|2024-01-15
+blog/SXG.md|2024-05-09
+blog/Denver ZK Quests.md|2024-03-17
+blog/ZuStamps.md|2024-01-15
+compilations/Cryptography travel log.md|2024-08-24
+compilations/Selected past projects.md|2024-08-08
+compilations/Very cracked.md|2024-08-26
+compilations/All past projects.md|2024-08-08
+compilations/index.md|2024-02-12
+compilations/In-person cryptography.md|2024-02-12
+draft-blog/ZK improves the UX of ownership and portability.md|2024-02-12
+draft-blog/The Wonders of WebAuthn PRF.md|2024-01-16
+draft-blog/Gods in the modern world.md|2024-01-16
+draft-blog/index.md|2024-02-12
+draft-blog/TLSNotary over social graphs.md|2024-05-02
+proposals/DKIM-BIN.md|2024-03-17
+proposals/index.md|2024-02-12
+proposals/SHAmaphore.md|2024-02-12
+proposals/SXG.md|2024-02-01

@@ -1,4 +1,5 @@
 ---
+date: 2024-02-12
 title: Project proposals
 ---
 Ideas for projects that fit any of the following conditions:

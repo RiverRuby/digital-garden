@@ -1,4 +1,5 @@
 ---
+date: 2024-08-24
 draft: true
 ---
 - [[TLSNotary]] is excellent to bridge data from one site to another site

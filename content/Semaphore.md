@@ -1,4 +1,5 @@
 ---
+date: 2024-07-03
 tags:
   - software
 ---

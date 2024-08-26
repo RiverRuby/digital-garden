@@ -1,4 +1,5 @@
 ---
+date: 2024-02-01
 title: Signed exchange (SXG)
 ---
 🚧 This is a work-in-progress 🚧

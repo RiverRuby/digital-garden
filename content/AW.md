@@ -1,4 +1,5 @@
 ---
+date: 2024-05-07
 title: autoworlds
 tags:
   - concepts

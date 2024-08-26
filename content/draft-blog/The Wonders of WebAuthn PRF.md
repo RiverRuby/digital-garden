@@ -1,3 +1,7 @@
+---
+date: 2024-01-16
+---
+
 🚧 This is a work in progress 🚧
 
 [[WebAuthn]] is in the progress of adding a [PRF extension](https://w3c.github.io/webauthn/#prf-extension) to its standard, which in my opinion opens up a huge new design space for applications to explore.

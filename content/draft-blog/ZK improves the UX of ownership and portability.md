@@ -1,3 +1,7 @@
+---
+date: 2024-02-12
+---
+
 🚧 This is a work in progress 🚧
 
 This is part of a longer series called “[[CG]] as [[offensive]] technology”, an exploration of how we can use cryptography to **enable new affordances for users** instead of just protecting against bad outcomes. Defense for offense.

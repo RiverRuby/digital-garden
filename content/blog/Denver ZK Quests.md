@@ -1,3 +1,7 @@
+---
+date: 2024-03-17
+---
+
 > Originally from the PSE grant proposal for ZK Quests and Denver
 > Costs and salary redacted, but happy to discuss how much I was awarded in DMs
 

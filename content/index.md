@@ -1,4 +1,5 @@
 ---
+date: 2024-07-05
 title: viv's wiki
 ---
 Hi there, I'm Vivek! This [personal wiki](https://en.wikipedia.org/wiki/Personal_wiki) and occasional blog contains my thoughts on technology and documentation of my [projects](/In-flight-projects). I primarily explore **cryptography research** ([[CG]]), but I also write about **autoworlds** ([[AW]]), **artificial intelligence** ([[AI]]), and other technical intrigues! I am hoping that this site becomes a resource for anyone to understand complex technology in a **friendly but deeply informative way**.

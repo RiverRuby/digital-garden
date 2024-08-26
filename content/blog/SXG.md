@@ -1,4 +1,5 @@
 ---
+date: 2024-05-09
 title: Signed web pages with SXG
 ---
 [Signed exchanges](https://wicg.github.io/webpackage/draft-yasskin-http-origin-signed-responses.html), or SXG[^2] for short, is one of the most promising methods for getting interesting [[signatures]] from the web. From Google's introductory [article](https://web.dev/articles/signed-exchanges):

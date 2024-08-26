@@ -1,15 +1,16 @@
 ---
 title: Efficient ECDSA and client-side proving
 date: 2022-11-30T22:12:03.284Z
-authors: 
-type: 
+authors:
+type:
 draft: false
-slug: 
-category: 
-tags: 
+slug:
+category:
+tags:
 description: Reviewing a construction to reduce constraints for private ECDSA signature verification
 math: true
 ---
+
 Originally posted on https://personaelabs.org/posts/efficient-ecdsa-1/
 
 In this post, we introduce our research improving private ECDSA signature verification, stemming from this [ETHResearch post](https://ethresear.ch/t/efficient-ecdsa-signature-verification-using-circom/13629) and implemented in this [repository](https://github.com/personaelabs/efficient-zk-ecdsa). We also introduce the importance of **client-side proving** to unlock the full potential of zero-knowledge cryptography. In a related post we review the pros and cons of not going full-client side: [[Half server, half client]]
@@ -44,7 +45,6 @@ ECDSA signature verification has a bunch of moving parts. All operations are on 
 
 ![[maintable.png]]
 
-
 Here are specific `circom` functions from 0xPARC's `circom-ecdsa` that we reference:
 
 ![[functiontable.png]]
@@ -54,6 +54,7 @@ An ECDSA signature from public key $Q_a$ on the hashed message $m$ is the pair $
 $$
 
 R = ms^{-1} * G + rs^{-1} * Q_a
+
 
 $$
 
@@ -71,11 +72,10 @@ $$
 
 s * R = m * G + r * Q_a
 
+
 $$
 
 If we look carefully at the definition of $R$, we see it is just a random element on the curve. And $m$ is publicly known as we are always verifying a signature on a specific message. And so moving $R$, $r$, and $m$ outside of the SNARK shouldn't reveal anything about our user's public key [^3]. We further rewrite the equation as
-
-  
 
 $$
 
@@ -89,6 +89,7 @@ s(r^{-1} * R) - (r^{-1}m * G) &= Q_a
 
 \end{aligned}
 
+
 $$
 
 From this rewrite, we introduce two new terms:
@@ -97,10 +98,10 @@ From this rewrite, we introduce two new terms:
 
 which we substitute above to get
 
-$$ 
-s * T + U = Q_a 
 $$
-  
+s * T + U = Q_a
+$$
+
 Because $T$ and $U$ are defined using $R$, $r$, and $m$, we can compute them outside of the SNARK and pass them in as public inputs. And so with this rewrite we only need to do 1 `Secp256k1ScalarMult` and 1 `Secp256k1AddUnequal` inside of the circuit. Okay, 3 operations cut! Is this progress?
 
 Unfortunately, this only cuts 100k constraints from the original 1.5mil constraint circuit, because `Secp256k1ScalarMult` is by far the most expensive operation. This is implemented as `ecdsa_verify_no_precompute` in this [file](https://github.com/personaelabs/efficient-zk-ecdsa/blob/8477a39b5a3735724981cd99d19cf36ddb9e8c51/circuits/ecdsa_verify_no_precompute.circom) for reference. But hope is not lost yet! This rearranged equation is key for our next insight.
@@ -113,14 +114,13 @@ As $T$ is revealed publicly in our rearranged equation, we should be able to do 
 
 This cache of points means we can skip a number of costly operations in normal `Secp256k1ScalarMult`, bringing our total constraints to 163,239. This is a more than **9x** drop from the original circuit! The full method is:
 
-
 - Public inputs: $U$ and precomputed $T$ multiples
 - Private inputs: $s$, $Q_a$
 - Logic
 - Inside zkSNARK circuit
-$$
+  $$
 
-s * T + U = Q_a
+s \* T + U = Q_a
 
 $$
 - Outside of the zkSNARK
@@ -155,3 +155,4 @@ Thank you for making it to the end! Names within each group are sorted alphabeti
 [^2]: The actual verification only checks that $r$ is equal to the x coordinate of the RHS. This leads to $(r, -s)$ also being a valid signature. However, if the verifier is given $R$ then checking the full equation is equivalent.
 
 [^3]: In [deterministic ECDSA](https://datatracker.ietf.org/doc/html/rfc6979#section-3.2), $k$ isn't fully random and is roughly derived from a hash of the user's private key. Revealing $R$ generated deterministically is still secure in our method, which we analyze [here](https://hackmd.io/HQZxucnhSGKT_VfNwB6wOw#Does-R-leak-anything-about-s-and-Q_a).
+$$

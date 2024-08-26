@@ -1,3 +1,7 @@
+---
+date: 2024-05-02
+---
+
 ⚠️ work in progress
 
 TLSNotary is very powerful, but limited in its expressivity. In particular, TLSNotary allows a notary to sign off on API requests while maintaining privacy over the included data. However, this signature can only be trusted if you trust the notary involved didn't collude in the creation of these API requests.
