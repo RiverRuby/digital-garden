@@ -2,4 +2,4 @@
 tags:
   - people
 ---
-[[Very cracked]]. Head of [Lattice](https://lattice.xyz) and co-leads [[0xPARC]]. Will write more here soon.
+Head of [Lattice](https://lattice.xyz) and co-leads [[Org 0xPARC]].

@@ -34,20 +34,20 @@ This is a fairly complete record of my technical projects that are relevant to c
 	- Ideas were converted into the [[Jubmoji grant proposal]] [[PSE]] grant proposal!
 	
 - **(05/23 to 06/23)** [[ZuStamps]]
-	- Funded by [[0xPARC]], led by me and collaborated with Rachel & Althea
+	- Funded by [[Org 0xPARC]], led by me and collaborated with Rachel & Althea
 	- First deployment of signature-producing NFC chips for ZK applications
 	
 - **(04/23 to 05/23)** [Zupoll](https://zupoll.org)
-	- Funded by [[0xPARC]], collaborated with Sampriti
+	- Funded by [[Org 0xPARC]], collaborated with Sampriti
 	- [Developed a polling app](https://github.com/proofcarryingdata/zupoll) built on Semaphore for Zuzalu citizens to use for polls
 	- Don't think the privacy benefits outweigh the UX costs unfortunately
 	
 - (**02/23 to 04/23**) [Zupass](https://github.com/proofcarryingdata/zupass) and PCD SDK
-	- Funded by [[0xPARC]], led by Brian and collaborated with Ivan & DC
+	- Funded by [[Org 0xPARC]], led by Brian and collaborated with Ivan & DC
 	- One of three full-time developers on the (cracked) Zupass team
 	
 - (**02/23 to 04/23**) [[WebAuthn]] Halo2 ZK wrapper
-	- Funded by [[0xPARC]]/[[PSE]], project led by Richard and proposed/supported by me
+	- Funded by [[Org 0xPARC]]/[[PSE]], project led by Richard and proposed/supported by me
 	- Creating [ZK circuits](https://github.com/zkwebauthn/webauthn-halo2) to prove knowledge of a valid WebAuthn signature
 	- Applied for use in an [AA wallet](https://www.noseedphrases.xyz/) by [Know Nothing Labs](https://www.knownothinglabs.xyz/)
 	- Researched if WebAuthn keys could be a reasonable nullifier; the guarantees are not very strong unfortunately
@@ -65,7 +65,7 @@ This is a fairly complete record of my technical projects that are relevant to c
 	- Posted to a ZK IAP class Discord channel
 	
 - (**01/23 to 02/23**) MIT [ZK IAP](https://zkiap.com) instructor and TA
-	- Funded by [[0xPARC]]
+	- Funded by [[Org 0xPARC]]
 	- Lecturer for Session 4 and partial lecturer for Session 11
 	- TA for office hours and mentored a few end-of-course projects
 
@@ -81,13 +81,13 @@ This is a fairly complete record of my technical projects that are relevant to c
   - Developed in an [ETH research post](https://ethresear.ch/t/efficient-ecdsa-signature-verification-using-circom/13629)
   
 - **(08/22 to 10/22)** [[In-person heyanon]]
-  - Funded by [[0xPARC]] and [[Personae Labs]]
+  - Funded by [[Org 0xPARC]] and [[Personae Labs]]
   - Used heyanon to build a demo of in-person anonymous speech at SBC '22
   - Used [[Semaphore]] identities, given out as QR codes
   - First ZK demo to involve multiple roles which I find 
   
 - **(03/22 to 11/22)** [[heyanon!]]
-  - Funded by [[0xPARC]] and [[Personae Labs]], collaborated with Lakshman Sankar
+  - Funded by [[Org 0xPARC]] and [[Personae Labs]], collaborated with Lakshman Sankar
   - Anon twitter posting with ETH reputation
   - ECDSA proving was way too slow for this to be useful/fun, I was laser focused on improving that in later projects
 
