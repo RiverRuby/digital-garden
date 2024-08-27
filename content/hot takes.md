@@ -29,7 +29,7 @@ Most of my takes will be focused on consumer uses of [[CG]], which is where most
 	- My intuition says most situations need verifiability more than privacy, and many financial opportunities need exact numbers of your salary/credit/health details to make the best deals
 
 - [[Stop making identity wallets, we already have emails!]]
-	- 
+	- Our email inboxes are the best identity wallets we currently have
 
 ### MPC-related
 
@@ -50,7 +50,7 @@ Most of my takes will be focused on consumer uses of [[CG]], which is where most
 ### FHE-related
 
 - **In consumer settings, multi-party FHE is significantly more useful and interesting than single-party FHE.** 
-	- 
+	- Having private computation done on private data seems only useful for highly-sensitive things like medical data, where the algorithms can't just be sent to you to run locally for proprietary reasons
 
 - **In enterprise settings, single-party FHE will be a frequently used alternative to storing consumer data on clouds or in hardware enclaves.**
 	- As the AI race grows, companies will be pushed to use more and more of their available data to train models
