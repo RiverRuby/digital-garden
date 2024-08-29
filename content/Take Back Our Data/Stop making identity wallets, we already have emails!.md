@@ -25,6 +25,10 @@ The folks that control our mobile OSes will be able to deliver a better UX and D
 
 I think interesting experiments can still be done before Apple/Google really deliver on these product directions (see [Sismo](https://github.com/sismo-core), [Zupass](https://github.com/proofcarryingdata/zupass), [QuarkID](https://quarkid.org/),  [PrivadoID](https://www.privado.id/), etc) but I don't see a promising long-term for the current attempts.
 
+#### Personal assistant trends
+
+
+
 #### Possible competitors
 What companies or organizations do have a compelling path to alternatives? Here's some that come to mind:
 1. Meta

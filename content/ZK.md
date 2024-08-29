@@ -12,12 +12,12 @@ Zero-knowledge cryptography, primarily built from [[zkSNARKs]].
 
 There are three main properties that we unlock with ZK, which I personally organize in the **SVP** acronym:
 
-1. **S**uccinctness (the `S` in [[zkSNARK]])
+1. **S**uccinctness (the `S` in [[zkSNARKs]])
 	- Usually used for scalability, as in zkRollups (which usually don't use any ZK)
 	- Important for client/human verified proofs
-1. **V**erifiability (the `NARK` in [[zkSNARK]])
+1. **V**erifiability (the `NARK` in [[zkSNARKs]])
 	- Equivalent to [[VIP]], explored further in that page
-2. **P**rivacy (the `zk` in [[zkSNARK]])
+2. **P**rivacy (the `zk` in [[zkSNARKs]])
 	- Can enable true data [[ownership]] in a way that hasn't been possible for the first few innings of the internet
 
 ### Succinctness

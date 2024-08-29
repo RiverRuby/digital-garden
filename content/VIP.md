@@ -35,4 +35,4 @@ VIP closely interacts with a number of other concepts, but each are slightly dif
 - [[signatures]]
 	- Signatures are the smallest/simplest unit of VIP data
 - [[ZK]]
-	- ZK proofs are a significant up-level of VIP data, where we can selectively disclose information and make the proof very small via [[zkSNARK]]s
+	- ZK proofs are a significant up-level of VIP data, where we can selectively disclose information and make the proof very small via [[zkSNARKs]]
